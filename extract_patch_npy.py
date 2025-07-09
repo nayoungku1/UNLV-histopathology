@@ -54,7 +54,7 @@ def main():
     parser.add_argument("--output", type=str, required=True, help="Path to output folder")
     parser.add_argument("-c", type=str, choices=["Random"], default="Random", help="Patch selection mode")
     parser.add_argument("-n", type=int, default=2000, help="Number of patches (only used for -c Random)")
-    parser.add_argument("--patch_size", type=int, default=224, help="Size of patches")
+    parser.add_argument("--patch_size", type=int, default=256, help="Size of patches")
     parser.add_argument("--level", type=int, default=0, help="Level to extract patches from")
 
     args = parser.parse_args()

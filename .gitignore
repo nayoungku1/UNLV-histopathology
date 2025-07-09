@@ -1,3 +1,4 @@
+*.svs
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+CMB-LCA/
+howToRun.txt
+*.zip
+out/
+.DS_Store
