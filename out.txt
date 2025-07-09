@@ -1,0 +1,1094 @@
+Saved 827 patches to out/MSB-01236-01-02.npz
+Saved 82 patches to out/MSB-05876-01-07.npz
+Saved 206 patches to out/MSB-06150-02-04.npz
+Saved 1657 patches to out/MSB-03700-01-01.npz
+Saved 617 patches to out/MSB-01459-01-02.npz
+Saved 456 patches to out/MSB-00755-01-02.npz
+Saved 326 patches to out/MSB-06150-02-05.npz
+Saved 46 patches to out/MSB-05876-01-06.npz
+Failed to process CMB-LCA/MSB-05508-01-02.svs: need at least one array to stack
+Saved 1956 patches to out/MSB-01307-01-02.npz
+Saved 242 patches to out/MSB-02936-03-06.npz
+Saved 1441 patches to out/MSB-04620-04-02.npz
+Saved 1184 patches to out/MSB-02498-01-04.npz
+Saved 415 patches to out/MSB-05256-01-02.npz
+Saved 2000 patches to out/MSB-02118-01-07.npz
+Saved 2000 patches to out/MSB-02118-01-12.npz
+Saved 1286 patches to out/MSB-02457-01-02.npz
+Saved 445 patches to out/MSB-02661-01-02.npz
+Saved 415 patches to out/MSB-06150-02-12.npz
+Saved 21 patches to out/MSB-06482-03-03.npz
+Saved 209 patches to out/MSB-07662-01-01.npz
+Saved 162 patches to out/MSB-05740-02-04.npz
+Saved 409 patches to out/MSB-05756-01-02.npz
+Saved 20 patches to out/MSB-08928-01-06.npz
+Saved 1948 patches to out/MSB-02118-01-02.npz
+Saved 1172 patches to out/MSB-03592-04-02.npz
+Saved 43 patches to out/MSB-02120-03-04.npz
+Saved 1146 patches to out/MSB-05746-02-02.npz
+Saved 1359 patches to out/MSB-06965-01-02.npz
+Saved 528 patches to out/MSB-08954-01-02.npz
+Saved 1572 patches to out/MSB-01772-03-02.npz
+Saved 135 patches to out/MSB-02367-03-02.npz
+Saved 277 patches to out/MSB-03587-02-02.npz
+Saved 344 patches to out/MSB-04620-04-04.npz
+Saved 4 patches to out/MSB-08928-01-05.npz
+Saved 1319 patches to out/MSB-01413-01-08.npz
+Saved 46 patches to out/MSB-04286-01-01.npz
+Saved 881 patches to out/MSB-07241-01-02.npz
+Saved 48 patches to out/MSB-08928-01-04.npz
+Saved 106 patches to out/MSB-02302-01-02.npz
+Saved 1198 patches to out/MSB-02291-04-02.npz
+Saved 1238 patches to out/MSB-04323-01-04.npz
+Saved 30 patches to out/MSB-07272-03-01.npz
+Saved 542 patches to out/MSB-04630-01-02.npz
+Saved 2000 patches to out/MSB-03330-03-02.npz
+Saved 1123 patches to out/MSB-06824-01-02.npz
+Saved 232 patches to out/MSB-08242-01-05.npz
+Saved 1123 patches to out/MSB-07219-02-01.npz
+Saved 18 patches to out/MSB-09426-03-02.npz
+Saved 477 patches to out/MSB-09880-05-06.npz
+Saved 20 patches to out/MSB-08063-04-01.npz
+Saved 197 patches to out/MSB-06433-03-20.npz
+Saved 1058 patches to out/MSB-07202-01-05.npz
+Saved 177 patches to out/MSB-09794-01-02.npz
+Saved 275 patches to out/MSB-01072-02-01.npz
+Saved 2000 patches to out/MSB-09466-02-02.npz
+Saved 55 patches to out/MSB-07945-01-02.npz
+Saved 293 patches to out/MSB-09917-03-06.npz
+Saved 313 patches to out/MSB-09505-01-02.npz
+Saved 241 patches to out/MSB-03308-01-12.npz
+Saved 113 patches to out/MSB-09977-01-22.npz
+Saved 73 patches to out/MSB-08354-01-03.npz
+Saved 87 patches to out/MSB-09848-01-02.npz
+Saved 379 patches to out/MSB-06197-01-02.npz
+Saved 907 patches to out/MSB-00122-01-02.npz
+Saved 1007 patches to out/MSB-05102-02-02.npz
+Saved 793 patches to out/MSB-05388-01-07.npz
+Saved 652 patches to out/MSB-08242-01-06.npz
+Saved 723 patches to out/MSB-00602-02-01.npz
+Saved 469 patches to out/MSB-09880-05-05.npz
+Saved 354 patches to out/MSB-08777-01-02.npz
+Saved 1204 patches to out/MSB-08476-03-02.npz
+Saved 1561 patches to out/MSB-04849-03-02.npz
+Saved 318 patches to out/MSB-08583-03-02.npz
+Saved 782 patches to out/MSB-07202-01-06.npz
+Saved 771 patches to out/MSB-05388-01-12.npz
+Saved 1725 patches to out/MSB-05915-06-02.npz
+Saved 618 patches to out/MSB-04347-03-03.npz
+Saved 65 patches to out/MSB-01491-01-01.npz
+Saved 392 patches to out/MSB-08354-01-02.npz
+Saved 317 patches to out/MSB-09917-03-05.npz
+Saved 338 patches to out/MSB-03308-01-07.npz
+Saved 583 patches to out/MSB-04388-01-01.npz
+Saved 468 patches to out/MSB-06135-01-20.npz
+Saved 520 patches to out/MSB-03410-02-02.npz
+Saved 1216 patches to out/MSB-04248-03-01.npz
+Saved 297 patches to out/MSB-09960-03-02.npz
+Saved 445 patches to out/MSB-08782-02-04.npz
+Saved 345 patches to out/MSB-05388-01-02.npz
+Saved 835 patches to out/MSB-00122-03-02.npz
+Saved 934 patches to out/MSB-07278-01-02.npz
+Saved 1267 patches to out/MSB-08476-03-12.npz
+Saved 15 patches to out/MSB-07636-08-06.npz
+Saved 1143 patches to out/MSB-08476-03-07.npz
+Saved 167 patches to out/MSB-07686-01-02.npz
+Saved 493 patches to out/MSB-01649-01-02.npz
+Saved 180 patches to out/MSB-05281-01-02.npz
+Saved 419 patches to out/MSB-09560-01-02.npz
+Saved 97 patches to out/MSB-09977-01-24.npz
+Saved 1051 patches to out/MSB-08828-01-20.npz
+Saved 68 patches to out/MSB-07636-08-04.npz
+Saved 851 patches to out/MSB-09604-01-02.npz
+Saved 72 patches to out/MSB-07636-08-05.npz
+Saved 1345 patches to out/MSB-00773-01-01.npz
+Saved 839 patches to out/MSB-05365-04-02.npz
+Saved 130 patches to out/MSB-02151-02-08.npz
+Saved 1025 patches to out/MSB-04096-03-02.npz
+Saved 157 patches to out/MSB-08797-01-20.npz
+Saved 324 patches to out/MSB-07311-03-02.npz
+Saved 183 patches to out/MSB-04567-03-20.npz
+Saved 318 patches to out/MSB-09521-03-01.npz
+Saved 1578 patches to out/MSB-04319-01-03.npz
+Saved 1406 patches to out/MSB-03638-03-02.npz
+Saved 998 patches to out/MSB-04569-01-06.npz
+Saved 645 patches to out/MSB-04569-01-12.npz
+Saved 248 patches to out/MSB-06059-01-02.npz
+Saved 974 patches to out/MSB-00956-02-02.npz
+Saved 610 patches to out/MSB-05767-01-02.npz
+Saved 306 patches to out/MSB-09666-02-02.npz
+Saved 654 patches to out/MSB-05098-03-02.npz
+Saved 207 patches to out/MSB-06824-08-06.npz
+Saved 48 patches to out/MSB-06720-03-02.npz
+Saved 270 patches to out/MSB-05015-01-02.npz
+Saved 416 patches to out/MSB-03275-03-02.npz
+Saved 528 patches to out/MSB-05365-01-02.npz
+Saved 495 patches to out/MSB-06510-01-02.npz
+Saved 790 patches to out/MSB-04569-01-11.npz
+Saved 357 patches to out/MSB-04096-06-14.npz
+Saved 1158 patches to out/MSB-03548-01-04.npz
+Saved 1743 patches to out/MSB-09604-06-04.npz
+Saved 572 patches to out/MSB-01433-03-02.npz
+Saved 239 patches to out/MSB-05460-01-02.npz
+Saved 298 patches to out/MSB-02151-02-13.npz
+Saved 1104 patches to out/MSB-09382-01-20.npz
+Saved 744 patches to out/MSB-08454-03-02.npz
+Saved 187 patches to out/MSB-02151-02-07.npz
+Saved 12 patches to out/MSB-01762-03-03.npz
+Saved 473 patches to out/MSB-06824-08-05.npz
+Saved 669 patches to out/MSB-04569-04-20.npz
+Saved 792 patches to out/MSB-02498-02-02.npz
+Saved 1494 patches to out/MSB-03108-03-02.npz
+Saved 991 patches to out/MSB-01973-01-02.npz
+Saved 1009 patches to out/MSB-07578-03-02.npz
+Saved 421 patches to out/MSB-06926-01-20.npz
+Saved 232 patches to out/MSB-08867-01-03.npz
+Saved 43 patches to out/MSB-07636-01-02.npz
+Saved 152 patches to out/MSB-07342-03-20.npz
+Saved 567 patches to out/MSB-05915-03-02.npz
+Saved 815 patches to out/MSB-04962-01-03.npz
+Saved 80 patches to out/MSB-00179-04-02.npz
+Saved 821 patches to out/MSB-04319-01-04.npz
+Saved 239 patches to out/MSB-07494-01-05.npz
+Saved 111 patches to out/MSB-01617-01-05.npz
+Saved 533 patches to out/MSB-03483-03-02.npz
+Saved 655 patches to out/MSB-04323-02-02.npz
+Saved 76 patches to out/MSB-01617-01-07.npz
+Saved 93 patches to out/MSB-07520-04-01.npz
+Saved 382 patches to out/MSB-04096-06-06.npz
+Saved 84 patches to out/MSB-02151-02-14.npz
+Saved 39 patches to out/MSB-02302-02-04.npz
+Saved 7 patches to out/MSB-09027-01-02.npz
+Saved 1452 patches to out/MSB-09604-06-03.npz
+Saved 300 patches to out/MSB-04096-06-13.npz
+Saved 1060 patches to out/MSB-03548-01-03.npz
+Saved 636 patches to out/MSB-00179-03-20.npz
+Saved 53 patches to out/MSB-01499-01-02.npz
+Saved 627 patches to out/MSB-07494-01-06.npz
+Saved 15 patches to out/MSB-08063-05-03.npz
+Saved 108 patches to out/MSB-05837-01-04.npz
+Saved 849 patches to out/MSB-01772-06-02.npz
+Saved 1426 patches to out/MSB-00556-04-12.npz
+Saved 1372 patches to out/MSB-00556-04-06.npz
+Saved 34 patches to out/MSB-08841-01-02.npz
+Saved 157 patches to out/MSB-06387-04-03.npz
+Saved 701 patches to out/MSB-02428-03-02.npz
+Saved 1329 patches to out/MSB-07727-03-02.npz
+Saved 108 patches to out/MSB-03410-01-02.npz
+Saved 521 patches to out/MSB-09518-03-02.npz
+Saved 392 patches to out/MSB-01110-01-20.npz
+Saved 1367 patches to out/MSB-02370-01-02.npz
+Saved 1566 patches to out/MSB-06110-01-20.npz
+Saved 647 patches to out/MSB-04500-01-02.npz
+Saved 451 patches to out/MSB-06864-01-02.npz
+Failed to process CMB-LCA/MSB-02151-01-20.svs: need at least one array to stack
+Saved 1403 patches to out/MSB-01413-01-13.npz
+Saved 1139 patches to out/MSB-00556-04-11.npz
+Saved 398 patches to out/MSB-08782-03-02.npz
+Saved 148 patches to out/MSB-05837-01-06.npz
+Saved 306 patches to out/MSB-04315-01-02.npz
+Saved 243 patches to out/MSB-09117-03-02.npz
+Saved 588 patches to out/MSB-09692-01-02.npz
+Saved 1575 patches to out/MSB-08964-01-02.npz
+Saved 566 patches to out/MSB-08267-03-05.npz
+Saved 1294 patches to out/MSB-03418-03-20.npz
+Saved 86 patches to out/MSB-09426-02-02.npz
+Saved 261 patches to out/MSB-02120-08-01.npz
+Saved 1084 patches to out/MSB-00122-02-04.npz
+Saved 116 patches to out/MSB-05876-01-08.npz
+Saved 1255 patches to out/MSB-05326-03-02.npz
+Saved 71 patches to out/MSB-01437-03-09.npz
+Saved 127 patches to out/MSB-09117-03-06.npz
+Saved 38 patches to out/MSB-00939-02-05.npz
+Saved 1350 patches to out/MSB-01413-01-02.npz
+Saved 253 patches to out/MSB-07572-01-02.npz
+Saved 1268 patches to out/MSB-01413-01-03.npz
+Saved 81 patches to out/MSB-06387-04-05.npz
+Saved 379 patches to out/MSB-02963-01-10.npz
+Saved 874 patches to out/MSB-06249-01-03.npz
+Saved 1328 patches to out/MSB-03592-03-02.npz
+Saved 1129 patches to out/MSB-01597-03-02.npz
+Saved 307 patches to out/MSB-02506-03-03.npz
+Saved 41 patches to out/MSB-06810-03-20.npz
+Saved 56 patches to out/MSB-08063-05-04.npz
+Saved 1647 patches to out/MSB-06640-03-02.npz
+Saved 422 patches to out/MSB-06072-03-05.npz
+Saved 367 patches to out/MSB-08782-01-02.npz
+Saved 609 patches to out/MSB-05767-07-12.npz
+Saved 499 patches to out/MSB-05767-07-06.npz
+Saved 181 patches to out/MSB-07864-03-06.npz
+Saved 240 patches to out/MSB-08267-03-02.npz
+Saved 1442 patches to out/MSB-08789-03-01.npz
+Saved 27 patches to out/MSB-04620-01-01.npz
+Saved 771 patches to out/MSB-09866-01-13.npz
+Saved 183 patches to out/MSB-00939-02-06.npz
+Saved 81 patches to out/MSB-05620-03-02.npz
+Saved 159 patches to out/MSB-09866-01-06.npz
+Saved 163 patches to out/MSB-09866-01-12.npz
+Saved 39 patches to out/MSB-07700-01-04.npz
+Saved 2000 patches to out/MSB-05387-01-02.npz
+Saved 1521 patches to out/MSB-00316-03-01.npz
+Saved 294 patches to out/MSB-06072-03-06.npz
+Saved 1678 patches to out/MSB-04968-03-01.npz
+Saved 493 patches to out/MSB-05767-07-11.npz
+Saved 1048 patches to out/MSB-04797-01-02.npz
+
+objc[79649]: Class GNotificationCenterDelegate is implemented in both /opt/anaconda3/envs/aiap/lib/python3.13/site-packages/openslide_bin/libopenslide.1.dylib (0x106b2d318) and /opt/anaconda3/envs/aiap/lib/libgio-2.0.0.dylib (0x1102ce408). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+
+Processing slides:   0%|          | 0/234 [00:00<?, ?it/s]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:04:23.301: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:04:23.301: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:   0%|          | 1/234 [00:20<1:20:55, 20.84s/it]
+Processing slides:   1%|          | 2/234 [00:35<1:07:20, 17.42s/it]
+Processing slides:   1%|▏         | 3/234 [00:51<1:03:44, 16.56s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:05:14.693: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:05:14.693: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:   2%|▏         | 4/234 [01:21<1:24:21, 22.01s/it]
+Processing slides:   2%|▏         | 5/234 [01:41<1:20:39, 21.13s/it]
+Processing slides:   3%|▎         | 6/234 [01:59<1:15:50, 19.96s/it]
+Processing slides:   3%|▎         | 7/234 [02:16<1:11:55, 19.01s/it]
+Processing slides:   3%|▎         | 8/234 [02:30<1:06:21, 17.62s/it]
+Processing slides:   4%|▍         | 9/234 [02:45<1:02:16, 16.61s/it]
+Processing slides:   4%|▍         | 10/234 [03:16<1:19:17, 21.24s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:07:40.009: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:07:40.009: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:   5%|▍         | 11/234 [03:32<1:12:49, 19.60s/it]
+Processing slides:   5%|▌         | 12/234 [03:59<1:20:29, 21.76s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:08:22.573: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:08:22.573: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:   6%|▌         | 13/234 [04:23<1:22:40, 22.45s/it]
+Processing slides:   6%|▌         | 14/234 [04:41<1:18:05, 21.30s/it]
+Processing slides:   6%|▋         | 15/234 [05:18<1:34:07, 25.79s/it]
+Processing slides:   7%|▋         | 16/234 [05:48<1:38:54, 27.22s/it]
+Processing slides:   7%|▋         | 17/234 [06:14<1:37:23, 26.93s/it]
+Processing slides:   8%|▊         | 18/234 [06:33<1:27:39, 24.35s/it]
+Processing slides:   8%|▊         | 19/234 [06:51<1:20:25, 22.44s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:11:14.593: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:11:14.593: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:   9%|▊         | 20/234 [07:05<1:11:01, 19.91s/it]
+Processing slides:   9%|▉         | 21/234 [07:21<1:07:02, 18.89s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:11:45.099: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:11:45.099: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:   9%|▉         | 22/234 [07:37<1:03:34, 17.99s/it]
+Processing slides:  10%|▉         | 23/234 [07:55<1:02:45, 17.84s/it]
+Processing slides:  10%|█         | 24/234 [08:10<59:28, 16.99s/it]  
+Processing slides:  11%|█         | 25/234 [08:39<1:12:22, 20.78s/it]
+Processing slides:  11%|█         | 26/234 [09:03<1:15:13, 21.70s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:13:26.969: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:13:26.969: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  12%|█▏        | 27/234 [09:16<1:05:45, 19.06s/it]
+Processing slides:  12%|█▏        | 28/234 [09:42<1:12:00, 20.97s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:14:05.316: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:14:05.316: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  12%|█▏        | 29/234 [10:07<1:16:33, 22.41s/it]
+Processing slides:  13%|█▎        | 30/234 [10:27<1:13:05, 21.50s/it]
+Processing slides:  13%|█▎        | 31/234 [10:55<1:19:14, 23.42s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:15:18.358: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:15:18.358: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  14%|█▎        | 32/234 [11:11<1:11:52, 21.35s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:15:34.861: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:15:34.861: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  14%|█▍        | 33/234 [11:27<1:05:50, 19.66s/it]
+Processing slides:  15%|█▍        | 34/234 [11:44<1:03:28, 19.04s/it]
+Processing slides:  15%|█▍        | 35/234 [11:59<58:35, 17.66s/it]  
+Processing slides:  15%|█▌        | 36/234 [12:24<1:05:20, 19.80s/it]
+Processing slides:  16%|█▌        | 37/234 [12:39<1:01:08, 18.62s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:17:03.292: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:17:03.292: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  16%|█▌        | 38/234 [13:01<1:03:50, 19.54s/it]
+Processing slides:  17%|█▋        | 39/234 [13:16<59:20, 18.26s/it]  
+Processing slides:  17%|█▋        | 40/234 [13:31<55:17, 17.10s/it]
+Processing slides:  18%|█▊        | 41/234 [13:56<1:02:55, 19.56s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:18:19.953: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:18:19.953: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  18%|█▊        | 42/234 [14:21<1:07:14, 21.01s/it]
+Processing slides:  18%|█▊        | 43/234 [14:35<1:00:23, 18.97s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:18:58.562: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:18:58.562: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  19%|█▉        | 44/234 [14:54<1:00:28, 19.10s/it]
+Processing slides:  19%|█▉        | 45/234 [15:25<1:11:09, 22.59s/it]
+Processing slides:  20%|█▉        | 46/234 [15:49<1:12:22, 23.10s/it]
+Processing slides:  20%|██        | 47/234 [16:06<1:06:01, 21.18s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:20:29.684: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:20:29.684: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  21%|██        | 48/234 [16:30<1:08:12, 22.00s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:20:53.593: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:20:53.593: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  21%|██        | 49/234 [16:44<1:00:19, 19.56s/it]
+Processing slides:  21%|██▏       | 50/234 [17:02<58:28, 19.07s/it]  
+Processing slides:  22%|██▏       | 51/234 [17:18<55:31, 18.21s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:21:41.576: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:21:41.576: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  22%|██▏       | 52/234 [17:33<52:46, 17.40s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:21:57.087: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:21:57.087: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  23%|██▎       | 53/234 [17:55<56:34, 18.75s/it]
+Processing slides:  23%|██▎       | 54/234 [18:11<53:14, 17.75s/it]
+Processing slides:  24%|██▎       | 55/234 [18:28<52:21, 17.55s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:22:51.508: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:22:51.508: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  24%|██▍       | 56/234 [18:59<1:04:06, 21.61s/it]
+Processing slides:  24%|██▍       | 57/234 [19:13<57:26, 19.47s/it]  
+Processing slides:  25%|██▍       | 58/234 [19:29<54:09, 18.46s/it]
+Processing slides:  25%|██▌       | 59/234 [19:47<53:07, 18.21s/it]
+Processing slides:  26%|██▌       | 60/234 [20:04<51:20, 17.71s/it]
+Processing slides:  26%|██▌       | 61/234 [20:19<49:03, 17.01s/it]
+Processing slides:  26%|██▋       | 62/234 [20:33<46:22, 16.18s/it]
+Processing slides:  27%|██▋       | 63/234 [20:49<45:56, 16.12s/it]
+Processing slides:  27%|██▋       | 64/234 [21:06<46:29, 16.41s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:25:30.007: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:25:30.007: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  28%|██▊       | 65/234 [21:29<51:26, 18.27s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:25:52.608: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:25:52.608: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  28%|██▊       | 66/234 [21:52<55:13, 19.73s/it]
+Processing slides:  29%|██▊       | 67/234 [22:12<55:31, 19.95s/it]
+Processing slides:  29%|██▉       | 68/234 [22:32<54:30, 19.70s/it]
+Processing slides:  29%|██▉       | 69/234 [22:53<55:26, 20.16s/it]
+Processing slides:  30%|██▉       | 70/234 [23:10<52:56, 19.37s/it]
+Processing slides:  30%|███       | 71/234 [23:27<50:29, 18.59s/it]
+Processing slides:  31%|███       | 72/234 [23:52<55:03, 20.39s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:28:15.464: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:28:15.464: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  31%|███       | 73/234 [24:20<1:01:21, 22.87s/it]
+Processing slides:  32%|███▏      | 74/234 [24:38<56:44, 21.28s/it]  TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:29:01.673: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:29:01.673: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  32%|███▏      | 75/234 [24:58<55:37, 20.99s/it]
+Processing slides:  32%|███▏      | 76/234 [25:19<55:08, 20.94s/it]
+Processing slides:  33%|███▎      | 77/234 [25:48<1:00:50, 23.25s/it]
+Processing slides:  33%|███▎      | 78/234 [26:06<56:46, 21.84s/it]  TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:30:29.987: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:30:29.987: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  34%|███▍      | 79/234 [26:21<51:01, 19.75s/it]
+Processing slides:  34%|███▍      | 80/234 [26:38<48:41, 18.97s/it]
+Processing slides:  35%|███▍      | 81/234 [26:54<45:59, 18.03s/it]
+Processing slides:  35%|███▌      | 82/234 [27:12<45:45, 18.06s/it]
+Processing slides:  35%|███▌      | 83/234 [27:31<45:45, 18.18s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:31:54.464: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:31:54.464: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  36%|███▌      | 84/234 [27:50<46:08, 18.46s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:32:13.555: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:32:13.555: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  36%|███▋      | 85/234 [28:07<45:09, 18.18s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:32:31.109: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:32:31.109: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  37%|███▋      | 86/234 [28:33<50:06, 20.31s/it]
+Processing slides:  37%|███▋      | 87/234 [28:50<47:19, 19.32s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:33:13.376: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:33:13.376: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  38%|███▊      | 88/234 [29:07<45:21, 18.64s/it]
+Processing slides:  38%|███▊      | 89/234 [29:25<44:50, 18.55s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:33:48.795: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:33:48.795: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  38%|███▊      | 90/234 [29:47<47:06, 19.63s/it]
+Processing slides:  39%|███▉      | 91/234 [30:09<48:39, 20.41s/it]
+Processing slides:  39%|███▉      | 92/234 [30:35<51:53, 21.93s/it]
+Processing slides:  40%|███▉      | 93/234 [30:49<46:20, 19.72s/it]
+Processing slides:  40%|████      | 94/234 [31:14<49:05, 21.04s/it]
+Processing slides:  41%|████      | 95/234 [31:28<44:21, 19.14s/it]
+Processing slides:  41%|████      | 96/234 [31:46<43:05, 18.74s/it]
+Processing slides:  41%|████▏     | 97/234 [32:02<40:37, 17.79s/it]
+Processing slides:  42%|████▏     | 98/234 [32:20<40:24, 17.82s/it]
+Processing slides:  42%|████▏     | 99/234 [32:34<37:52, 16.83s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:36:57.844: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:36:57.844: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  43%|████▎     | 100/234 [32:58<42:37, 19.09s/it]
+Processing slides:  43%|████▎     | 101/234 [33:13<39:00, 17.60s/it]
+Processing slides:  44%|████▎     | 102/234 [33:35<41:45, 18.98s/it]
+Processing slides:  44%|████▍     | 103/234 [33:50<38:49, 17.79s/it]
+Processing slides:  44%|████▍     | 104/234 [34:15<43:30, 20.08s/it]
+Processing slides:  45%|████▍     | 105/234 [34:36<43:53, 20.42s/it]
+Processing slides:  45%|████▌     | 106/234 [34:52<40:24, 18.94s/it]
+Processing slides:  46%|████▌     | 107/234 [35:15<42:43, 20.18s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:39:38.742: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:39:38.742: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  46%|████▌     | 108/234 [35:31<39:45, 18.93s/it]
+Processing slides:  47%|████▋     | 109/234 [35:48<38:28, 18.46s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:40:12.126: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:40:12.126: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  47%|████▋     | 110/234 [36:04<36:21, 17.59s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:40:27.675: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:40:27.675: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  47%|████▋     | 111/234 [36:20<35:23, 17.26s/it]
+Processing slides:  48%|████▊     | 112/234 [36:48<41:24, 20.37s/it]
+Processing slides:  48%|████▊     | 113/234 [37:14<44:14, 21.94s/it]
+Processing slides:  49%|████▊     | 114/234 [37:37<44:39, 22.33s/it]
+Processing slides:  49%|████▉     | 115/234 [37:57<42:51, 21.61s/it]
+Processing slides:  50%|████▉     | 116/234 [38:13<39:32, 20.11s/it]
+Processing slides:  50%|█████     | 117/234 [38:37<41:07, 21.09s/it]
+Processing slides:  50%|█████     | 118/234 [38:57<40:19, 20.86s/it]
+Processing slides:  51%|█████     | 119/234 [39:14<37:57, 19.81s/it]
+Processing slides:  51%|█████▏    | 120/234 [39:34<37:18, 19.64s/it]
+Processing slides:  52%|█████▏    | 121/234 [39:49<34:37, 18.39s/it]
+Processing slides:  52%|█████▏    | 122/234 [40:03<31:45, 17.01s/it]
+Processing slides:  53%|█████▎    | 123/234 [40:20<31:15, 16.90s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:44:43.368: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:44:43.368: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  53%|█████▎    | 124/234 [40:37<31:22, 17.11s/it]
+Processing slides:  53%|█████▎    | 125/234 [40:57<32:21, 17.81s/it]
+Processing slides:  54%|█████▍    | 126/234 [41:15<32:07, 17.85s/it]
+Processing slides:  54%|█████▍    | 127/234 [41:36<33:59, 19.06s/it]
+Processing slides:  55%|█████▍    | 128/234 [41:52<31:38, 17.91s/it]
+Processing slides:  55%|█████▌    | 129/234 [42:15<33:57, 19.40s/it]
+Processing slides:  56%|█████▌    | 130/234 [42:43<38:19, 22.11s/it]
+Processing slides:  56%|█████▌    | 131/234 [43:03<36:41, 21.37s/it]
+Processing slides:  56%|█████▋    | 132/234 [43:19<33:45, 19.86s/it]
+Processing slides:  57%|█████▋    | 133/234 [43:36<31:56, 18.98s/it]
+Processing slides:  57%|█████▋    | 134/234 [44:01<34:42, 20.82s/it]
+Processing slides:  58%|█████▊    | 135/234 [44:21<33:56, 20.57s/it]
+Processing slides:  58%|█████▊    | 136/234 [44:37<31:29, 19.28s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:49:01.056: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:49:01.056: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  59%|█████▊    | 137/234 [44:52<29:06, 18.00s/it]
+Processing slides:  59%|█████▉    | 138/234 [45:09<28:20, 17.71s/it]
+Processing slides:  59%|█████▉    | 139/234 [45:30<29:28, 18.61s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:49:53.837: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:49:53.837: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  60%|█████▉    | 140/234 [45:51<30:11, 19.27s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:50:14.636: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:50:14.636: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  60%|██████    | 141/234 [46:18<33:28, 21.60s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:50:41.664: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:50:41.664: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  61%|██████    | 142/234 [46:40<33:21, 21.75s/it]
+Processing slides:  61%|██████    | 143/234 [47:04<33:59, 22.42s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:51:27.747: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:51:27.747: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  62%|██████▏   | 144/234 [47:22<31:48, 21.20s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:51:46.116: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:51:46.116: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  62%|██████▏   | 145/234 [47:38<29:09, 19.65s/it]
+Processing slides:  62%|██████▏   | 146/234 [47:52<26:23, 17.99s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:52:16.276: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:52:16.276: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  63%|██████▎   | 147/234 [48:09<25:31, 17.60s/it]
+Processing slides:  63%|██████▎   | 148/234 [48:29<26:18, 18.36s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:52:53.089: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:52:53.089: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  64%|██████▎   | 149/234 [48:51<27:38, 19.51s/it]
+Processing slides:  64%|██████▍   | 150/234 [49:06<25:13, 18.02s/it]
+Processing slides:  65%|██████▍   | 151/234 [49:27<26:07, 18.89s/it]
+Processing slides:  65%|██████▍   | 152/234 [49:43<24:38, 18.03s/it]
+Processing slides:  65%|██████▌   | 153/234 [49:57<22:53, 16.96s/it]
+Processing slides:  66%|██████▌   | 154/234 [50:17<23:29, 17.62s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:54:40.401: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:54:40.401: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  66%|██████▌   | 155/234 [50:35<23:39, 17.96s/it]
+Processing slides:  67%|██████▋   | 156/234 [50:50<21:58, 16.91s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:55:13.601: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:55:13.601: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  67%|██████▋   | 157/234 [51:05<20:52, 16.27s/it]
+Processing slides:  68%|██████▊   | 158/234 [51:22<20:54, 16.51s/it]
+Processing slides:  68%|██████▊   | 159/234 [51:37<20:04, 16.07s/it]
+Processing slides:  68%|██████▊   | 160/234 [51:51<19:09, 15.53s/it]
+Processing slides:  69%|██████▉   | 161/234 [52:07<19:02, 15.65s/it]
+Processing slides:  69%|██████▉   | 162/234 [52:34<22:48, 19.01s/it]
+Processing slides:  70%|██████▉   | 163/234 [52:50<21:31, 18.19s/it]
+Processing slides:  70%|███████   | 164/234 [53:13<22:44, 19.49s/it]
+Processing slides:  71%|███████   | 165/234 [53:32<22:28, 19.55s/it]
+Processing slides:  71%|███████   | 166/234 [53:48<20:58, 18.50s/it]
+Processing slides:  71%|███████▏  | 167/234 [54:07<20:42, 18.54s/it]
+Processing slides:  72%|███████▏  | 168/234 [54:22<19:13, 17.47s/it]
+Processing slides:  72%|███████▏  | 169/234 [54:37<18:09, 16.76s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 15:59:00.791: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 15:59:00.791: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  73%|███████▎  | 170/234 [54:59<19:40, 18.45s/it]
+Processing slides:  73%|███████▎  | 171/234 [55:26<22:04, 21.03s/it]
+Processing slides:  74%|███████▎  | 172/234 [55:53<23:24, 22.65s/it]
+Processing slides:  74%|███████▍  | 173/234 [56:07<20:27, 20.13s/it]
+Processing slides:  74%|███████▍  | 174/234 [56:23<18:43, 18.73s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:00:46.377: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:00:46.377: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  75%|███████▍  | 175/234 [56:43<18:49, 19.15s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:01:06.511: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:01:06.511: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  75%|███████▌  | 176/234 [57:09<20:41, 21.40s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:01:33.170: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:01:33.170: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  76%|███████▌  | 177/234 [57:25<18:44, 19.73s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:01:49.009: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:01:49.009: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  76%|███████▌  | 178/234 [57:44<18:16, 19.58s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:02:08.224: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:02:08.224: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  76%|███████▋  | 179/234 [58:02<17:25, 19.01s/it]
+Processing slides:  77%|███████▋  | 180/234 [58:30<19:23, 21.54s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:02:53.365: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:02:53.365: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  77%|███████▋  | 181/234 [58:58<20:53, 23.66s/it]
+Processing slides:  78%|███████▊  | 182/234 [59:17<19:19, 22.30s/it]
+Processing slides:  78%|███████▊  | 183/234 [59:35<17:54, 21.07s/it]
+Processing slides:  79%|███████▊  | 184/234 [59:52<16:20, 19.61s/it]
+Processing slides:  79%|███████▉  | 185/234 [1:00:17<17:25, 21.33s/it]
+Processing slides:  79%|███████▉  | 186/234 [1:00:41<17:42, 22.13s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:05:04.817: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:05:04.817: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  80%|███████▉  | 187/234 [1:00:59<16:18, 20.82s/it]
+Processing slides:  80%|████████  | 188/234 [1:01:14<14:46, 19.26s/it]
+Processing slides:  81%|████████  | 189/234 [1:01:30<13:43, 18.30s/it]
+Processing slides:  81%|████████  | 190/234 [1:01:46<12:50, 17.52s/it]
+Processing slides:  82%|████████▏ | 191/234 [1:02:07<13:09, 18.37s/it]
+Processing slides:  82%|████████▏ | 192/234 [1:02:34<14:41, 20.98s/it]
+Processing slides:  82%|████████▏ | 193/234 [1:02:52<13:43, 20.09s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:07:15.411: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:07:15.411: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  83%|████████▎ | 194/234 [1:03:18<14:44, 22.12s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:07:42.274: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:07:42.274: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  83%|████████▎ | 195/234 [1:03:33<12:59, 19.99s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:07:57.301: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:07:57.301: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  84%|████████▍ | 196/234 [1:03:51<12:09, 19.21s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:08:14.677: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:08:14.677: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  84%|████████▍ | 197/234 [1:04:14<12:38, 20.49s/it]
+Processing slides:  85%|████████▍ | 198/234 [1:04:29<11:13, 18.70s/it]
+Processing slides:  85%|████████▌ | 199/234 [1:04:53<11:53, 20.40s/it]
+Processing slides:  85%|████████▌ | 200/234 [1:05:08<10:35, 18.68s/it]
+Processing slides:  86%|████████▌ | 201/234 [1:05:22<09:34, 17.42s/it]
+Processing slides:  86%|████████▋ | 202/234 [1:05:37<08:47, 16.48s/it]
+Processing slides:  87%|████████▋ | 203/234 [1:06:02<09:57, 19.27s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:10:26.253: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:10:26.253: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  87%|████████▋ | 204/234 [1:06:19<09:10, 18.34s/it]
+Processing slides:  88%|████████▊ | 205/234 [1:06:44<09:52, 20.42s/it]
+Processing slides:  88%|████████▊ | 206/234 [1:06:59<08:47, 18.84s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:11:22.852: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:11:22.852: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  88%|████████▊ | 207/234 [1:07:16<08:15, 18.36s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:11:40.103: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:11:40.103: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  89%|████████▉ | 208/234 [1:07:38<08:21, 19.28s/it]
+Processing slides:  89%|████████▉ | 209/234 [1:08:03<08:47, 21.12s/it]
+Processing slides:  90%|████████▉ | 210/234 [1:08:26<08:42, 21.78s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:12:50.240: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:12:50.240: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  90%|█████████ | 211/234 [1:08:43<07:44, 20.19s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:13:06.720: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:13:06.720: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  91%|█████████ | 212/234 [1:08:57<06:43, 18.34s/it]
+Processing slides:  91%|█████████ | 213/234 [1:09:12<06:06, 17.43s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:13:36.065: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:13:36.065: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  91%|█████████▏| 214/234 [1:09:40<06:50, 20.50s/it]
+Processing slides:  92%|█████████▏| 215/234 [1:09:57<06:09, 19.43s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:14:20.670: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:14:20.670: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  92%|█████████▏| 216/234 [1:10:14<05:35, 18.62s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:14:37.379: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:14:37.379: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  93%|█████████▎| 217/234 [1:10:32<05:15, 18.59s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:14:55.904: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:14:55.904: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  93%|█████████▎| 218/234 [1:10:50<04:53, 18.33s/it]
+Processing slides:  94%|█████████▎| 219/234 [1:11:05<04:22, 17.53s/it]
+Processing slides:  94%|█████████▍| 220/234 [1:11:20<03:54, 16.75s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:15:44.206: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:15:44.206: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  94%|█████████▍| 221/234 [1:11:47<04:16, 19.76s/it]
+Processing slides:  95%|█████████▍| 222/234 [1:12:01<03:36, 18.08s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:16:25.163: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:16:25.163: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  95%|█████████▌| 223/234 [1:12:21<03:23, 18.54s/it]
+Processing slides:  96%|█████████▌| 224/234 [1:12:37<02:58, 17.85s/it]
+Processing slides:  96%|█████████▌| 225/234 [1:12:52<02:31, 16.88s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:17:15.626: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:17:15.626: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  97%|█████████▋| 226/234 [1:13:07<02:11, 16.41s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:17:30.936: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:17:30.936: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides:  97%|█████████▋| 227/234 [1:13:22<01:52, 16.03s/it]
+Processing slides:  97%|█████████▋| 228/234 [1:13:37<01:33, 15.50s/it]
+Processing slides:  98%|█████████▊| 229/234 [1:14:06<01:38, 19.68s/it]
+Processing slides:  98%|█████████▊| 230/234 [1:14:34<01:28, 22.17s/it]
+Processing slides:  99%|█████████▊| 231/234 [1:14:51<01:01, 20.48s/it]
+Processing slides:  99%|█████████▉| 232/234 [1:15:20<00:46, 23.31s/it]TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+TIFFFetchNormalTag: Warning, ASCII value for tag "ImageDescription" contains null byte in value; value incorrectly truncated during reading due to implementation limitations.
+
+(process:79649): GLib-CRITICAL **: 16:19:44.208: g_strchug: assertion 'string != NULL' failed
+
+(process:79649): GLib-CRITICAL **: 16:19:44.208: g_strchomp: assertion 'string != NULL' failed
+
+Processing slides: 100%|█████████▉| 233/234 [1:15:38<00:21, 21.58s/it]
+Processing slides: 100%|██████████| 234/234 [1:16:00<00:00, 21.81s/it]
+Processing slides: 100%|██████████| 234/234 [1:16:00<00:00, 19.49s/it]
