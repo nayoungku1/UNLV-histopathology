@@ -1,0 +1,540 @@
+선택된 모델: inception
+모델 구조:
+InceptionV3BinaryClassifier(
+  (inception): Inception3(
+    (Conv2d_1a_3x3): BasicConv2d(
+      (conv): Conv2d(3, 32, kernel_size=(3, 3), stride=(2, 2), bias=False)
+      (bn): BatchNorm2d(32, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (Conv2d_2a_3x3): BasicConv2d(
+      (conv): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), bias=False)
+      (bn): BatchNorm2d(32, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (Conv2d_2b_3x3): BasicConv2d(
+      (conv): Conv2d(32, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (maxpool1): MaxPool2d(kernel_size=3, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (Conv2d_3b_1x1): BasicConv2d(
+      (conv): Conv2d(64, 80, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (bn): BatchNorm2d(80, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (Conv2d_4a_3x3): BasicConv2d(
+      (conv): Conv2d(80, 192, kernel_size=(3, 3), stride=(1, 1), bias=False)
+      (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (maxpool2): MaxPool2d(kernel_size=3, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (Mixed_5b): InceptionA(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(192, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch5x5_1): BasicConv2d(
+        (conv): Conv2d(192, 48, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(48, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch5x5_2): BasicConv2d(
+        (conv): Conv2d(48, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_1): BasicConv2d(
+        (conv): Conv2d(192, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_2): BasicConv2d(
+        (conv): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3): BasicConv2d(
+        (conv): Conv2d(96, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(192, 32, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(32, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_5c): InceptionA(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch5x5_1): BasicConv2d(
+        (conv): Conv2d(256, 48, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(48, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch5x5_2): BasicConv2d(
+        (conv): Conv2d(48, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_1): BasicConv2d(
+        (conv): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_2): BasicConv2d(
+        (conv): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3): BasicConv2d(
+        (conv): Conv2d(96, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_5d): InceptionA(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(288, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch5x5_1): BasicConv2d(
+        (conv): Conv2d(288, 48, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(48, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch5x5_2): BasicConv2d(
+        (conv): Conv2d(48, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_1): BasicConv2d(
+        (conv): Conv2d(288, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_2): BasicConv2d(
+        (conv): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3): BasicConv2d(
+        (conv): Conv2d(96, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(288, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_6a): InceptionB(
+      (branch3x3): BasicConv2d(
+        (conv): Conv2d(288, 384, kernel_size=(3, 3), stride=(2, 2), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_1): BasicConv2d(
+        (conv): Conv2d(288, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(64, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_2): BasicConv2d(
+        (conv): Conv2d(64, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3): BasicConv2d(
+        (conv): Conv2d(96, 96, kernel_size=(3, 3), stride=(2, 2), bias=False)
+        (bn): BatchNorm2d(96, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_6b): InceptionC(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_1): BasicConv2d(
+        (conv): Conv2d(768, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_2): BasicConv2d(
+        (conv): Conv2d(128, 128, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_3): BasicConv2d(
+        (conv): Conv2d(128, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_1): BasicConv2d(
+        (conv): Conv2d(768, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_2): BasicConv2d(
+        (conv): Conv2d(128, 128, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_3): BasicConv2d(
+        (conv): Conv2d(128, 128, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_4): BasicConv2d(
+        (conv): Conv2d(128, 128, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_5): BasicConv2d(
+        (conv): Conv2d(128, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_6c): InceptionC(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_1): BasicConv2d(
+        (conv): Conv2d(768, 160, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_2): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_3): BasicConv2d(
+        (conv): Conv2d(160, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_1): BasicConv2d(
+        (conv): Conv2d(768, 160, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_2): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_3): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_4): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_5): BasicConv2d(
+        (conv): Conv2d(160, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_6d): InceptionC(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_1): BasicConv2d(
+        (conv): Conv2d(768, 160, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_2): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_3): BasicConv2d(
+        (conv): Conv2d(160, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_1): BasicConv2d(
+        (conv): Conv2d(768, 160, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_2): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_3): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_4): BasicConv2d(
+        (conv): Conv2d(160, 160, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(160, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_5): BasicConv2d(
+        (conv): Conv2d(160, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_6e): InceptionC(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_2): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7_3): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_2): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_3): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_4): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7dbl_5): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (AuxLogits): InceptionAux(
+      (conv0): BasicConv2d(
+        (conv): Conv2d(768, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(128, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (conv1): BasicConv2d(
+        (conv): Conv2d(128, 768, kernel_size=(5, 5), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(768, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (fc): Linear(in_features=768, out_features=1000, bias=True)
+    )
+    (Mixed_7a): InceptionD(
+      (branch3x3_1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_2): BasicConv2d(
+        (conv): Conv2d(192, 320, kernel_size=(3, 3), stride=(2, 2), bias=False)
+        (bn): BatchNorm2d(320, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7x3_1): BasicConv2d(
+        (conv): Conv2d(768, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7x3_2): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(1, 7), stride=(1, 1), padding=(0, 3), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7x3_3): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(7, 1), stride=(1, 1), padding=(3, 0), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch7x7x3_4): BasicConv2d(
+        (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_7b): InceptionE(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(1280, 320, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(320, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_1): BasicConv2d(
+        (conv): Conv2d(1280, 384, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_2a): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(1, 3), stride=(1, 1), padding=(0, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_2b): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(3, 1), stride=(1, 1), padding=(1, 0), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_1): BasicConv2d(
+        (conv): Conv2d(1280, 448, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(448, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_2): BasicConv2d(
+        (conv): Conv2d(448, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3a): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(1, 3), stride=(1, 1), padding=(0, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3b): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(3, 1), stride=(1, 1), padding=(1, 0), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(1280, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (Mixed_7c): InceptionE(
+      (branch1x1): BasicConv2d(
+        (conv): Conv2d(2048, 320, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(320, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_1): BasicConv2d(
+        (conv): Conv2d(2048, 384, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_2a): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(1, 3), stride=(1, 1), padding=(0, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3_2b): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(3, 1), stride=(1, 1), padding=(1, 0), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_1): BasicConv2d(
+        (conv): Conv2d(2048, 448, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(448, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_2): BasicConv2d(
+        (conv): Conv2d(448, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3a): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(1, 3), stride=(1, 1), padding=(0, 1), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch3x3dbl_3b): BasicConv2d(
+        (conv): Conv2d(384, 384, kernel_size=(3, 1), stride=(1, 1), padding=(1, 0), bias=False)
+        (bn): BatchNorm2d(384, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (branch_pool): BasicConv2d(
+        (conv): Conv2d(2048, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): BatchNorm2d(192, eps=0.001, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (avgpool): AdaptiveAvgPool2d(output_size=(1, 1))
+    (dropout): Dropout(p=0.5, inplace=False)
+    (fc): Identity()
+  )
+  (fc_layers): Sequential(
+    (0): Linear(in_features=1536, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.3, inplace=False)
+    (4): Linear(in_features=512, out_features=256, bias=True)
+    (5): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (6): ReLU()
+    (7): Dropout(p=0.3, inplace=False)
+    (8): Linear(in_features=256, out_features=1, bias=True)
+  )
+)
+Epoch [1/100], Train Loss: 0.1140 | Train Accuracy: 27.7193 | Train AUC: 0.9671, Validation Loss: 0.0435 | Validation Accuracy: 31.1106 | Validation AUC: 0.9965
+Epoch [2/100], Train Loss: 0.0452 | Train Accuracy: 27.6379 | Train AUC: 0.9940, Validation Loss: 0.0271 | Validation Accuracy: 31.4131 | Validation AUC: 0.9991
+Epoch [3/100], Train Loss: 0.0319 | Train Accuracy: 27.6164 | Train AUC: 0.9971, Validation Loss: 0.0226 | Validation Accuracy: 31.4583 | Validation AUC: 0.9993
+Epoch [4/100], Train Loss: 0.0228 | Train Accuracy: 27.5704 | Train AUC: 0.9987, Validation Loss: 0.0300 | Validation Accuracy: 31.4131 | Validation AUC: 0.9975
+Epoch [5/100], Train Loss: 0.0219 | Train Accuracy: 27.5723 | Train AUC: 0.9988, Validation Loss: 0.0190 | Validation Accuracy: 31.4774 | Validation AUC: 0.9986
+Epoch [6/100], Train Loss: 0.0148 | Train Accuracy: 27.5859 | Train AUC: 0.9990, Validation Loss: 0.0202 | Validation Accuracy: 31.3809 | Validation AUC: 0.9992
+Epoch [7/100], Train Loss: 0.0202 | Train Accuracy: 27.5977 | Train AUC: 0.9989, Validation Loss: 0.0323 | Validation Accuracy: 31.3035 | Validation AUC: 0.9975
+Epoch [8/100], Train Loss: 0.0212 | Train Accuracy: 27.5539 | Train AUC: 0.9989, Validation Loss: 0.0181 | Validation Accuracy: 31.4613 | Validation AUC: 0.9994
+Epoch [9/100], Train Loss: 0.0148 | Train Accuracy: 27.6046 | Train AUC: 0.9993, Validation Loss: 0.0208 | Validation Accuracy: 31.4322 | Validation AUC: 0.9991
+Epoch [10/100], Train Loss: 0.0129 | Train Accuracy: 27.5710 | Train AUC: 0.9997, Validation Loss: 0.0178 | Validation Accuracy: 31.5035 | Validation AUC: 0.9996
+Epoch [11/100], Train Loss: 0.0108 | Train Accuracy: 27.6065 | Train AUC: 0.9998, Validation Loss: 0.0419 | Validation Accuracy: 31.3296 | Validation AUC: 0.9983
+Epoch [12/100], Train Loss: 0.0137 | Train Accuracy: 27.5876 | Train AUC: 0.9995, Validation Loss: 0.0214 | Validation Accuracy: 31.3327 | Validation AUC: 0.9991
+Epoch [13/100], Train Loss: 0.0129 | Train Accuracy: 27.5787 | Train AUC: 0.9996, Validation Loss: 0.0219 | Validation Accuracy: 31.4291 | Validation AUC: 0.9989
+Epoch [14/100], Train Loss: 0.0154 | Train Accuracy: 27.5936 | Train AUC: 0.9994, Validation Loss: 0.0201 | Validation Accuracy: 31.4583 | Validation AUC: 0.9990
+Epoch [15/100], Train Loss: 0.0128 | Train Accuracy: 27.5856 | Train AUC: 0.9997, Validation Loss: 0.0195 | Validation Accuracy: 31.5126 | Validation AUC: 0.9992
+Epoch [16/100], Train Loss: 0.0178 | Train Accuracy: 27.5536 | Train AUC: 0.9990, Validation Loss: 0.0219 | Validation Accuracy: 31.4774 | Validation AUC: 0.9991
+Epoch [17/100], Train Loss: 0.0104 | Train Accuracy: 27.5678 | Train AUC: 0.9998, Validation Loss: 0.0201 | Validation Accuracy: 31.3648 | Validation AUC: 0.9993
+Epoch [18/100], Train Loss: 0.0113 | Train Accuracy: 27.5932 | Train AUC: 0.9997, Validation Loss: 0.0209 | Validation Accuracy: 31.3809 | Validation AUC: 0.9992
+Epoch [19/100], Train Loss: 0.0149 | Train Accuracy: 27.5617 | Train AUC: 0.9985, Validation Loss: 0.0231 | Validation Accuracy: 31.4553 | Validation AUC: 0.9992
+Epoch [20/100], Train Loss: 0.0143 | Train Accuracy: 27.5856 | Train AUC: 0.9995, Validation Loss: 0.0221 | Validation Accuracy: 31.4261 | Validation AUC: 0.9993
+Epoch [21/100], Train Loss: 0.0113 | Train Accuracy: 27.5568 | Train AUC: 0.9997, Validation Loss: 0.0186 | Validation Accuracy: 31.4774 | Validation AUC: 0.9992
+Epoch [22/100], Train Loss: 0.0125 | Train Accuracy: 27.5666 | Train AUC: 0.9995, Validation Loss: 0.0272 | Validation Accuracy: 31.4261 | Validation AUC: 0.9975
+Epoch [23/100], Train Loss: 0.0139 | Train Accuracy: 27.5589 | Train AUC: 0.9995, Validation Loss: 0.0195 | Validation Accuracy: 31.4422 | Validation AUC: 0.9992
+Epoch [24/100], Train Loss: 0.0099 | Train Accuracy: 27.5471 | Train AUC: 0.9998, Validation Loss: 0.0180 | Validation Accuracy: 31.4774 | Validation AUC: 0.9993
+Epoch [25/100], Train Loss: 0.0135 | Train Accuracy: 27.5718 | Train AUC: 0.9997, Validation Loss: 0.0266 | Validation Accuracy: 31.3940 | Validation AUC: 0.9988
+Epoch [26/100], Train Loss: 0.0144 | Train Accuracy: 27.5676 | Train AUC: 0.9993, Validation Loss: 0.0217 | Validation Accuracy: 31.4774 | Validation AUC: 0.9989
+Epoch [27/100], Train Loss: 0.0088 | Train Accuracy: 27.5686 | Train AUC: 0.9998, Validation Loss: 0.0155 | Validation Accuracy: 31.5417 | Validation AUC: 0.9994
+Epoch [28/100], Train Loss: 0.0104 | Train Accuracy: 27.6164 | Train AUC: 0.9998, Validation Loss: 0.0191 | Validation Accuracy: 31.4774 | Validation AUC: 0.9992
+Epoch [29/100], Train Loss: 0.0124 | Train Accuracy: 27.5637 | Train AUC: 0.9996, Validation Loss: 0.0271 | Validation Accuracy: 31.4774 | Validation AUC: 0.9979
+Epoch [30/100], Train Loss: 0.0112 | Train Accuracy: 27.5986 | Train AUC: 0.9997, Validation Loss: 0.0217 | Validation Accuracy: 31.3970 | Validation AUC: 0.9991
+Epoch [31/100], Train Loss: 0.0104 | Train Accuracy: 27.5835 | Train AUC: 0.9997, Validation Loss: 0.0217 | Validation Accuracy: 31.4613 | Validation AUC: 0.9990
+Epoch [32/100], Train Loss: 0.0085 | Train Accuracy: 27.5694 | Train AUC: 0.9998, Validation Loss: 0.0249 | Validation Accuracy: 31.4613 | Validation AUC: 0.9980
+Epoch [33/100], Train Loss: 0.0150 | Train Accuracy: 27.5688 | Train AUC: 0.9994, Validation Loss: 0.0310 | Validation Accuracy: 31.3648 | Validation AUC: 0.9992
+Epoch [34/100], Train Loss: 0.0127 | Train Accuracy: 27.5966 | Train AUC: 0.9995, Validation Loss: 0.0219 | Validation Accuracy: 31.4452 | Validation AUC: 0.9992
+Epoch [35/100], Train Loss: 0.0064 | Train Accuracy: 27.5839 | Train AUC: 0.9999, Validation Loss: 0.0213 | Validation Accuracy: 31.4583 | Validation AUC: 0.9995
+Epoch [36/100], Train Loss: 0.0079 | Train Accuracy: 27.5678 | Train AUC: 0.9999, Validation Loss: 0.0252 | Validation Accuracy: 31.4744 | Validation AUC: 0.9990
+Epoch [37/100], Train Loss: 0.0115 | Train Accuracy: 27.5598 | Train AUC: 0.9996, Validation Loss: 0.0233 | Validation Accuracy: 31.4422 | Validation AUC: 0.9992
+Epoch [38/100], Train Loss: 0.0104 | Train Accuracy: 27.5790 | Train AUC: 0.9997, Validation Loss: 0.0192 | Validation Accuracy: 31.5095 | Validation AUC: 0.9987
+Epoch [39/100], Train Loss: 0.0086 | Train Accuracy: 27.5587 | Train AUC: 0.9998, Validation Loss: 0.0188 | Validation Accuracy: 31.5417 | Validation AUC: 0.9991
+Epoch [40/100], Train Loss: 0.0104 | Train Accuracy: 27.6162 | Train AUC: 0.9997, Validation Loss: 0.0225 | Validation Accuracy: 31.4322 | Validation AUC: 0.9991
+Epoch [41/100], Train Loss: 0.0101 | Train Accuracy: 27.5460 | Train AUC: 0.9998, Validation Loss: 0.0277 | Validation Accuracy: 31.4261 | Validation AUC: 0.9989
+Epoch [42/100], Train Loss: 0.0091 | Train Accuracy: 27.5710 | Train AUC: 0.9997, Validation Loss: 0.0261 | Validation Accuracy: 31.5226 | Validation AUC: 0.9957
+Epoch [43/100], Train Loss: 0.0073 | Train Accuracy: 27.5660 | Train AUC: 0.9999, Validation Loss: 0.0288 | Validation Accuracy: 31.4613 | Validation AUC: 0.9985
+Epoch [44/100], Train Loss: 0.0104 | Train Accuracy: 27.5686 | Train AUC: 0.9997, Validation Loss: 0.0191 | Validation Accuracy: 31.4291 | Validation AUC: 0.9992
+Epoch [45/100], Train Loss: 0.0123 | Train Accuracy: 27.5925 | Train AUC: 0.9990, Validation Loss: 0.0253 | Validation Accuracy: 31.3327 | Validation AUC: 0.9991
+Epoch [46/100], Train Loss: 0.0126 | Train Accuracy: 27.5771 | Train AUC: 0.9996, Validation Loss: 0.0222 | Validation Accuracy: 31.4452 | Validation AUC: 0.9988
+Epoch [47/100], Train Loss: 0.0109 | Train Accuracy: 27.5497 | Train AUC: 0.9998, Validation Loss: 0.0202 | Validation Accuracy: 31.5417 | Validation AUC: 0.9986
+Epoch [48/100], Train Loss: 0.0080 | Train Accuracy: 27.5740 | Train AUC: 0.9999, Validation Loss: 0.0330 | Validation Accuracy: 31.4000 | Validation AUC: 0.9981
+Epoch [49/100], Train Loss: 0.0100 | Train Accuracy: 27.5515 | Train AUC: 0.9997, Validation Loss: 0.0239 | Validation Accuracy: 31.4452 | Validation AUC: 0.9977
+Epoch [50/100], Train Loss: 0.0117 | Train Accuracy: 27.5708 | Train AUC: 0.9996, Validation Loss: 0.0259 | Validation Accuracy: 31.3940 | Validation AUC: 0.9989
+Epoch [51/100], Train Loss: 0.0068 | Train Accuracy: 27.6031 | Train AUC: 0.9999, Validation Loss: 0.0272 | Validation Accuracy: 31.3327 | Validation AUC: 0.9992
+Epoch [52/100], Train Loss: 0.0095 | Train Accuracy: 27.5826 | Train AUC: 0.9997, Validation Loss: 0.0289 | Validation Accuracy: 31.4322 | Validation AUC: 0.9975
+Epoch [53/100], Train Loss: 0.0116 | Train Accuracy: 27.5620 | Train AUC: 0.9997, Validation Loss: 0.0210 | Validation Accuracy: 31.4291 | Validation AUC: 0.9981
+Epoch [54/100], Train Loss: 0.0092 | Train Accuracy: 27.5854 | Train AUC: 0.9998, Validation Loss: 0.0294 | Validation Accuracy: 31.4452 | Validation AUC: 0.9980
+Epoch [55/100], Train Loss: 0.0083 | Train Accuracy: 27.5912 | Train AUC: 0.9998, Validation Loss: 0.0259 | Validation Accuracy: 31.3166 | Validation AUC: 0.9989
+Epoch [56/100], Train Loss: 0.0055 | Train Accuracy: 27.5559 | Train AUC: 0.9999, Validation Loss: 0.0310 | Validation Accuracy: 31.4261 | Validation AUC: 0.9992
+Epoch [57/100], Train Loss: 0.0117 | Train Accuracy: 27.5792 | Train AUC: 0.9992, Validation Loss: 0.0187 | Validation Accuracy: 31.4583 | Validation AUC: 0.9992
+Epoch [58/100], Train Loss: 0.0078 | Train Accuracy: 27.5744 | Train AUC: 0.9999, Validation Loss: 0.0292 | Validation Accuracy: 31.3327 | Validation AUC: 0.9981
+Epoch [59/100], Train Loss: 0.0104 | Train Accuracy: 27.5919 | Train AUC: 0.9997, Validation Loss: 0.0255 | Validation Accuracy: 31.4422 | Validation AUC: 0.9985
+Epoch [60/100], Train Loss: 0.0090 | Train Accuracy: 27.5783 | Train AUC: 0.9997, Validation Loss: 0.0263 | Validation Accuracy: 31.4291 | Validation AUC: 0.9987
+Epoch [61/100], Train Loss: 0.0065 | Train Accuracy: 27.5604 | Train AUC: 0.9999, Validation Loss: 0.0189 | Validation Accuracy: 31.4935 | Validation AUC: 0.9981
+Epoch [62/100], Train Loss: 0.0129 | Train Accuracy: 27.5841 | Train AUC: 0.9995, Validation Loss: 0.0298 | Validation Accuracy: 31.4291 | Validation AUC: 0.9956
+Epoch [63/100], Train Loss: 0.0092 | Train Accuracy: 27.5889 | Train AUC: 0.9998, Validation Loss: 0.0244 | Validation Accuracy: 31.4774 | Validation AUC: 0.9971
+Epoch [64/100], Train Loss: 0.0098 | Train Accuracy: 27.5725 | Train AUC: 0.9998, Validation Loss: 0.0334 | Validation Accuracy: 31.4291 | Validation AUC: 0.9954
+Epoch [65/100], Train Loss: 0.0084 | Train Accuracy: 27.5727 | Train AUC: 0.9999, Validation Loss: 0.0214 | Validation Accuracy: 31.4935 | Validation AUC: 0.9990
+Epoch [66/100], Train Loss: 0.0126 | Train Accuracy: 27.5779 | Train AUC: 0.9995, Validation Loss: 0.0258 | Validation Accuracy: 31.4291 | Validation AUC: 0.9970
+Epoch [67/100], Train Loss: 0.0072 | Train Accuracy: 27.6011 | Train AUC: 0.9998, Validation Loss: 0.0206 | Validation Accuracy: 31.4935 | Validation AUC: 0.9989
+Epoch [68/100], Train Loss: 0.0055 | Train Accuracy: 27.5884 | Train AUC: 0.9999, Validation Loss: 0.0181 | Validation Accuracy: 31.4935 | Validation AUC: 0.9994
+Epoch [69/100], Train Loss: 0.0089 | Train Accuracy: 27.5673 | Train AUC: 0.9998, Validation Loss: 0.0244 | Validation Accuracy: 31.3809 | Validation AUC: 0.9989
+Epoch [70/100], Train Loss: 0.0119 | Train Accuracy: 27.5663 | Train AUC: 0.9995, Validation Loss: 0.0187 | Validation Accuracy: 31.5095 | Validation AUC: 0.9993
+Epoch [71/100], Train Loss: 0.0113 | Train Accuracy: 27.5738 | Train AUC: 0.9995, Validation Loss: 0.0290 | Validation Accuracy: 31.4422 | Validation AUC: 0.9988
+Epoch [72/100], Train Loss: 0.0070 | Train Accuracy: 27.5880 | Train AUC: 0.9999, Validation Loss: 0.0176 | Validation Accuracy: 31.5578 | Validation AUC: 0.9995
+Epoch [73/100], Train Loss: 0.0071 | Train Accuracy: 27.5596 | Train AUC: 0.9998, Validation Loss: 0.0156 | Validation Accuracy: 31.5256 | Validation AUC: 0.9995
+Epoch [74/100], Train Loss: 0.0085 | Train Accuracy: 27.5695 | Train AUC: 0.9998, Validation Loss: 0.0151 | Validation Accuracy: 31.4774 | Validation AUC: 0.9996
+Epoch [75/100], Train Loss: 0.0068 | Train Accuracy: 27.5792 | Train AUC: 0.9999, Validation Loss: 0.0189 | Validation Accuracy: 31.5095 | Validation AUC: 0.9994
+Epoch [76/100], Train Loss: 0.0118 | Train Accuracy: 27.5846 | Train AUC: 0.9995, Validation Loss: 0.0252 | Validation Accuracy: 31.4131 | Validation AUC: 0.9991
+Epoch [77/100], Train Loss: 0.0115 | Train Accuracy: 27.5887 | Train AUC: 0.9997, Validation Loss: 0.0174 | Validation Accuracy: 31.4935 | Validation AUC: 0.9993
+Epoch [78/100], Train Loss: 0.0081 | Train Accuracy: 27.5531 | Train AUC: 0.9998, Validation Loss: 0.0240 | Validation Accuracy: 31.4291 | Validation AUC: 0.9991
+Epoch [79/100], Train Loss: 0.0074 | Train Accuracy: 27.5719 | Train AUC: 0.9999, Validation Loss: 0.0195 | Validation Accuracy: 31.4583 | Validation AUC: 0.9993
+Epoch [80/100], Train Loss: 0.0073 | Train Accuracy: 27.5986 | Train AUC: 0.9998, Validation Loss: 0.0104 | Validation Accuracy: 31.5256 | Validation AUC: 0.9998
+Epoch [81/100], Train Loss: 0.0081 | Train Accuracy: 27.5691 | Train AUC: 0.9999, Validation Loss: 0.0211 | Validation Accuracy: 31.4291 | Validation AUC: 0.9993
+Epoch [82/100], Train Loss: 0.0065 | Train Accuracy: 27.5654 | Train AUC: 0.9998, Validation Loss: 0.0184 | Validation Accuracy: 31.4613 | Validation AUC: 0.9994
+Epoch [83/100], Train Loss: 0.0136 | Train Accuracy: 27.5772 | Train AUC: 0.9995, Validation Loss: 0.0192 | Validation Accuracy: 31.5095 | Validation AUC: 0.9996
+Epoch [84/100], Train Loss: 0.0068 | Train Accuracy: 27.5697 | Train AUC: 0.9999, Validation Loss: 0.0184 | Validation Accuracy: 31.4452 | Validation AUC: 0.9996
+Epoch [85/100], Train Loss: 0.0088 | Train Accuracy: 27.5874 | Train AUC: 0.9998, Validation Loss: 0.0181 | Validation Accuracy: 31.5256 | Validation AUC: 0.9995
+Epoch [86/100], Train Loss: 0.0084 | Train Accuracy: 27.5691 | Train AUC: 0.9998, Validation Loss: 0.0229 | Validation Accuracy: 31.4774 | Validation AUC: 0.9992
+Epoch [87/100], Train Loss: 0.0141 | Train Accuracy: 27.5986 | Train AUC: 0.9991, Validation Loss: 0.0261 | Validation Accuracy: 31.3940 | Validation AUC: 0.9992
+Epoch [88/100], Train Loss: 0.0076 | Train Accuracy: 27.5469 | Train AUC: 0.9999, Validation Loss: 0.0198 | Validation Accuracy: 31.4422 | Validation AUC: 0.9994
+Epoch [89/100], Train Loss: 0.0098 | Train Accuracy: 27.5671 | Train AUC: 0.9998, Validation Loss: 0.0298 | Validation Accuracy: 31.4422 | Validation AUC: 0.9991
+Epoch [90/100], Train Loss: 0.0063 | Train Accuracy: 27.5882 | Train AUC: 0.9999, Validation Loss: 0.0164 | Validation Accuracy: 31.4774 | Validation AUC: 0.9993
+Epoch [91/100], Train Loss: 0.0102 | Train Accuracy: 27.5835 | Train AUC: 0.9997, Validation Loss: 0.0136 | Validation Accuracy: 31.5095 | Validation AUC: 0.9997
+Epoch [92/100], Train Loss: 0.0093 | Train Accuracy: 27.6104 | Train AUC: 0.9996, Validation Loss: 0.0142 | Validation Accuracy: 31.4804 | Validation AUC: 0.9996
+Epoch [93/100], Train Loss: 0.0050 | Train Accuracy: 27.5604 | Train AUC: 0.9999, Validation Loss: 0.0192 | Validation Accuracy: 31.4774 | Validation AUC: 0.9996
+Epoch [94/100], Train Loss: 0.0120 | Train Accuracy: 27.5697 | Train AUC: 0.9996, Validation Loss: 0.0203 | Validation Accuracy: 31.4422 | Validation AUC: 0.9995
+Epoch [95/100], Train Loss: 0.0098 | Train Accuracy: 27.5682 | Train AUC: 0.9998, Validation Loss: 0.0211 | Validation Accuracy: 31.4643 | Validation AUC: 0.9991
+Epoch [96/100], Train Loss: 0.0108 | Train Accuracy: 27.5670 | Train AUC: 0.9996, Validation Loss: 0.0174 | Validation Accuracy: 31.5256 | Validation AUC: 0.9992
+Epoch [97/100], Train Loss: 0.0078 | Train Accuracy: 27.5690 | Train AUC: 0.9999, Validation Loss: 0.0266 | Validation Accuracy: 31.5065 | Validation AUC: 0.9970
+Epoch [98/100], Train Loss: 0.0102 | Train Accuracy: 27.5699 | Train AUC: 0.9998, Validation Loss: 0.0219 | Validation Accuracy: 31.4714 | Validation AUC: 0.9991
+Epoch [99/100], Train Loss: 0.0072 | Train Accuracy: 27.5947 | Train AUC: 0.9999, Validation Loss: 0.0339 | Validation Accuracy: 31.4422 | Validation AUC: 0.9975
+Epoch [100/100], Train Loss: 0.0096 | Train Accuracy: 27.5893 | Train AUC: 0.9998, Validation Loss: 0.0191 | Validation Accuracy: 31.4291 | Validation AUC: 0.9994
+Train Loss: 0.0008, Accuracy: 27.5637, AUC: 1.0000
+Validation Loss: 0.0191, Accuracy: 31.4291, AUC: 0.9994
+Test Loss: 0.0165, Accuracy: 31.4578, AUC: 0.9995
+/home/s25piteam/miniconda3/envs/tileenv/lib/python3.8/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/s25piteam/miniconda3/envs/tileenv/lib/python3.8/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=Inception_V3_Weights.IMAGENET1K_V1`. You can also use `weights=Inception_V3_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+/home/s25piteam/miniconda3/envs/tileenv/lib/python3.8/site-packages/torch/cuda/__init__.py:128: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0

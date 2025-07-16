@@ -1,0 +1,299 @@
+Error loading pre-trained weights: <urlopen error [Errno 101] Network is unreachable>
+Falling back to untrained ResNet50 model
+선택된 모델: resnet
+모델 구조:
+ResNetBinaryClassifier(
+  (resnet): ResNet(
+    (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3), bias=False)
+    (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (maxpool): MaxPool2d(kernel_size=3, stride=2, padding=1, dilation=1, ceil_mode=False)
+    (layer1): Sequential(
+      (0): Bottleneck(
+        (conv1): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (downsample): Sequential(
+          (0): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        )
+      )
+      (1): Bottleneck(
+        (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (2): Bottleneck(
+        (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+    )
+    (layer2): Sequential(
+      (0): Bottleneck(
+        (conv1): Conv2d(256, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (downsample): Sequential(
+          (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+          (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        )
+      )
+      (1): Bottleneck(
+        (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (2): Bottleneck(
+        (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (3): Bottleneck(
+        (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+    )
+    (layer3): Sequential(
+      (0): Bottleneck(
+        (conv1): Conv2d(512, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (downsample): Sequential(
+          (0): Conv2d(512, 1024, kernel_size=(1, 1), stride=(2, 2), bias=False)
+          (1): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        )
+      )
+      (1): Bottleneck(
+        (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (2): Bottleneck(
+        (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (3): Bottleneck(
+        (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (4): Bottleneck(
+        (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (5): Bottleneck(
+        (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+    )
+    (layer4): Sequential(
+      (0): Bottleneck(
+        (conv1): Conv2d(1024, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (downsample): Sequential(
+          (0): Conv2d(1024, 2048, kernel_size=(1, 1), stride=(2, 2), bias=False)
+          (1): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        )
+      )
+      (1): Bottleneck(
+        (conv1): Conv2d(2048, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (2): Bottleneck(
+        (conv1): Conv2d(2048, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+    )
+    (avgpool): AdaptiveAvgPool2d(output_size=(1, 1))
+    (fc): Identity()
+  )
+  (fc_layers): Sequential(
+    (0): Linear(in_features=1536, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.3, inplace=False)
+    (4): Linear(in_features=512, out_features=256, bias=True)
+    (5): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (6): ReLU()
+    (7): Dropout(p=0.3, inplace=False)
+    (8): Linear(in_features=256, out_features=1, bias=True)
+  )
+)
+Epoch [1/100], Train Loss: 0.1001 | Train Accuracy: 27.7394 | Train AUC: 0.9725, Validation Loss: 0.0383 | Validation Accuracy: 31.2844 | Validation AUC: 0.9972
+Epoch [2/100], Train Loss: 0.0440 | Train Accuracy: 27.6691 | Train AUC: 0.9935, Validation Loss: 0.0307 | Validation Accuracy: 31.3839 | Validation AUC: 0.9980
+Epoch [3/100], Train Loss: 0.0274 | Train Accuracy: 27.5981 | Train AUC: 0.9978, Validation Loss: 0.0339 | Validation Accuracy: 31.3136 | Validation AUC: 0.9987
+Epoch [4/100], Train Loss: 0.0236 | Train Accuracy: 27.5826 | Train AUC: 0.9986, Validation Loss: 0.0313 | Validation Accuracy: 31.3618 | Validation AUC: 0.9981
+Epoch [5/100], Train Loss: 0.0203 | Train Accuracy: 27.6281 | Train AUC: 0.9990, Validation Loss: 0.0359 | Validation Accuracy: 31.2171 | Validation AUC: 0.9977
+Epoch [6/100], Train Loss: 0.0196 | Train Accuracy: 27.5600 | Train AUC: 0.9991, Validation Loss: 0.0330 | Validation Accuracy: 31.3970 | Validation AUC: 0.9983
+Epoch [7/100], Train Loss: 0.0196 | Train Accuracy: 27.5839 | Train AUC: 0.9989, Validation Loss: 0.0205 | Validation Accuracy: 31.4935 | Validation AUC: 0.9983
+Epoch [8/100], Train Loss: 0.0131 | Train Accuracy: 27.5805 | Train AUC: 0.9996, Validation Loss: 0.0254 | Validation Accuracy: 31.3487 | Validation AUC: 0.9980
+Epoch [9/100], Train Loss: 0.0110 | Train Accuracy: 27.5998 | Train AUC: 0.9997, Validation Loss: 0.0399 | Validation Accuracy: 31.1688 | Validation AUC: 0.9982
+Epoch [10/100], Train Loss: 0.0145 | Train Accuracy: 27.5846 | Train AUC: 0.9996, Validation Loss: 0.0360 | Validation Accuracy: 31.3166 | Validation AUC: 0.9982
+Epoch [11/100], Train Loss: 0.0162 | Train Accuracy: 27.5667 | Train AUC: 0.9994, Validation Loss: 0.0229 | Validation Accuracy: 31.3648 | Validation AUC: 0.9989
+Epoch [12/100], Train Loss: 0.0135 | Train Accuracy: 27.5865 | Train AUC: 0.9996, Validation Loss: 0.0189 | Validation Accuracy: 31.4905 | Validation AUC: 0.9995
+Epoch [13/100], Train Loss: 0.0110 | Train Accuracy: 27.5729 | Train AUC: 0.9998, Validation Loss: 0.0235 | Validation Accuracy: 31.4000 | Validation AUC: 0.9989
+Epoch [14/100], Train Loss: 0.0131 | Train Accuracy: 27.5749 | Train AUC: 0.9996, Validation Loss: 0.0289 | Validation Accuracy: 31.4422 | Validation AUC: 0.9956
+Epoch [15/100], Train Loss: 0.0188 | Train Accuracy: 27.5777 | Train AUC: 0.9990, Validation Loss: 0.0254 | Validation Accuracy: 31.4131 | Validation AUC: 0.9988
+Epoch [16/100], Train Loss: 0.0142 | Train Accuracy: 27.5945 | Train AUC: 0.9995, Validation Loss: 0.0303 | Validation Accuracy: 31.4261 | Validation AUC: 0.9979
+Epoch [17/100], Train Loss: 0.0115 | Train Accuracy: 27.5762 | Train AUC: 0.9997, Validation Loss: 0.0255 | Validation Accuracy: 31.3678 | Validation AUC: 0.9991
+Epoch [18/100], Train Loss: 0.0093 | Train Accuracy: 27.5615 | Train AUC: 0.9998, Validation Loss: 0.0282 | Validation Accuracy: 31.3618 | Validation AUC: 0.9991
+Epoch [19/100], Train Loss: 0.0181 | Train Accuracy: 27.5645 | Train AUC: 0.9991, Validation Loss: 0.0254 | Validation Accuracy: 31.4905 | Validation AUC: 0.9983
+Epoch [20/100], Train Loss: 0.0118 | Train Accuracy: 27.5779 | Train AUC: 0.9994, Validation Loss: 0.0242 | Validation Accuracy: 31.3548 | Validation AUC: 0.9992
+Epoch [21/100], Train Loss: 0.0121 | Train Accuracy: 27.5402 | Train AUC: 0.9995, Validation Loss: 0.0299 | Validation Accuracy: 31.4101 | Validation AUC: 0.9982
+Epoch [22/100], Train Loss: 0.0166 | Train Accuracy: 27.5706 | Train AUC: 0.9990, Validation Loss: 0.0293 | Validation Accuracy: 31.4070 | Validation AUC: 0.9994
+Epoch [23/100], Train Loss: 0.0100 | Train Accuracy: 27.5738 | Train AUC: 0.9998, Validation Loss: 0.0254 | Validation Accuracy: 31.4905 | Validation AUC: 0.9993
+Epoch [24/100], Train Loss: 0.0063 | Train Accuracy: 27.5777 | Train AUC: 0.9999, Validation Loss: 0.0390 | Validation Accuracy: 31.3166 | Validation AUC: 0.9972
+Epoch [25/100], Train Loss: 0.0127 | Train Accuracy: 27.5820 | Train AUC: 0.9995, Validation Loss: 0.0377 | Validation Accuracy: 31.3588 | Validation AUC: 0.9979
+Epoch [26/100], Train Loss: 0.0152 | Train Accuracy: 27.5652 | Train AUC: 0.9994, Validation Loss: 0.0202 | Validation Accuracy: 31.4131 | Validation AUC: 0.9993
+Epoch [27/100], Train Loss: 0.0138 | Train Accuracy: 27.5600 | Train AUC: 0.9994, Validation Loss: 0.0322 | Validation Accuracy: 31.4261 | Validation AUC: 0.9988
+Epoch [28/100], Train Loss: 0.0134 | Train Accuracy: 27.5749 | Train AUC: 0.9995, Validation Loss: 0.0351 | Validation Accuracy: 31.4070 | Validation AUC: 0.9988
+Epoch [29/100], Train Loss: 0.0096 | Train Accuracy: 27.5583 | Train AUC: 0.9997, Validation Loss: 0.0156 | Validation Accuracy: 31.5286 | Validation AUC: 0.9992
+Epoch [30/100], Train Loss: 0.0098 | Train Accuracy: 27.5630 | Train AUC: 0.9998, Validation Loss: 0.0211 | Validation Accuracy: 31.5226 | Validation AUC: 0.9992
+Epoch [31/100], Train Loss: 0.0074 | Train Accuracy: 27.5669 | Train AUC: 0.9999, Validation Loss: 0.0153 | Validation Accuracy: 31.4965 | Validation AUC: 0.9996
+Epoch [32/100], Train Loss: 0.0098 | Train Accuracy: 27.5682 | Train AUC: 0.9998, Validation Loss: 0.0208 | Validation Accuracy: 31.4452 | Validation AUC: 0.9993
+Epoch [33/100], Train Loss: 0.0132 | Train Accuracy: 27.5807 | Train AUC: 0.9994, Validation Loss: 0.0148 | Validation Accuracy: 31.5256 | Validation AUC: 0.9996
+Epoch [34/100], Train Loss: 0.0128 | Train Accuracy: 27.5915 | Train AUC: 0.9995, Validation Loss: 0.0265 | Validation Accuracy: 31.3648 | Validation AUC: 0.9985
+Epoch [35/100], Train Loss: 0.0138 | Train Accuracy: 27.5749 | Train AUC: 0.9996, Validation Loss: 0.0224 | Validation Accuracy: 31.3970 | Validation AUC: 0.9986
+Epoch [36/100], Train Loss: 0.0099 | Train Accuracy: 27.5650 | Train AUC: 0.9997, Validation Loss: 0.0257 | Validation Accuracy: 31.4774 | Validation AUC: 0.9986
+Epoch [37/100], Train Loss: 0.0085 | Train Accuracy: 27.5667 | Train AUC: 0.9998, Validation Loss: 0.0148 | Validation Accuracy: 31.5256 | Validation AUC: 0.9996
+Epoch [38/100], Train Loss: 0.0096 | Train Accuracy: 27.5723 | Train AUC: 0.9998, Validation Loss: 0.0326 | Validation Accuracy: 31.3648 | Validation AUC: 0.9981
+Epoch [39/100], Train Loss: 0.0066 | Train Accuracy: 27.5755 | Train AUC: 0.9999, Validation Loss: 0.0233 | Validation Accuracy: 31.4452 | Validation AUC: 0.9991
+Epoch [40/100], Train Loss: 0.0054 | Train Accuracy: 27.5854 | Train AUC: 1.0000, Validation Loss: 0.0225 | Validation Accuracy: 31.4291 | Validation AUC: 0.9993
+Epoch [41/100], Train Loss: 0.0125 | Train Accuracy: 27.5409 | Train AUC: 0.9996, Validation Loss: 0.0233 | Validation Accuracy: 31.4291 | Validation AUC: 0.9988
+Epoch [42/100], Train Loss: 0.0152 | Train Accuracy: 27.5877 | Train AUC: 0.9995, Validation Loss: 0.0203 | Validation Accuracy: 31.5417 | Validation AUC: 0.9985
+Epoch [43/100], Train Loss: 0.0111 | Train Accuracy: 27.5781 | Train AUC: 0.9998, Validation Loss: 0.0196 | Validation Accuracy: 31.5417 | Validation AUC: 0.9986
+Epoch [44/100], Train Loss: 0.0097 | Train Accuracy: 27.5833 | Train AUC: 0.9997, Validation Loss: 0.0417 | Validation Accuracy: 31.4231 | Validation AUC: 0.9963
+Epoch [45/100], Train Loss: 0.0102 | Train Accuracy: 27.5736 | Train AUC: 0.9997, Validation Loss: 0.0205 | Validation Accuracy: 31.4291 | Validation AUC: 0.9989
+Epoch [46/100], Train Loss: 0.0110 | Train Accuracy: 27.5695 | Train AUC: 0.9993, Validation Loss: 0.0197 | Validation Accuracy: 31.4452 | Validation AUC: 0.9994
+Epoch [47/100], Train Loss: 0.0046 | Train Accuracy: 27.5878 | Train AUC: 1.0000, Validation Loss: 0.0391 | Validation Accuracy: 31.4874 | Validation AUC: 0.9962
+Epoch [48/100], Train Loss: 0.0143 | Train Accuracy: 27.5796 | Train AUC: 0.9994, Validation Loss: 0.0302 | Validation Accuracy: 31.4905 | Validation AUC: 0.9993
+Epoch [49/100], Train Loss: 0.0083 | Train Accuracy: 27.5559 | Train AUC: 0.9999, Validation Loss: 0.0234 | Validation Accuracy: 31.5065 | Validation AUC: 0.9994
+Epoch [50/100], Train Loss: 0.0061 | Train Accuracy: 27.5643 | Train AUC: 0.9999, Validation Loss: 0.0377 | Validation Accuracy: 31.5035 | Validation AUC: 0.9993
+Epoch [51/100], Train Loss: 0.0092 | Train Accuracy: 27.5607 | Train AUC: 0.9998, Validation Loss: 0.0200 | Validation Accuracy: 31.4935 | Validation AUC: 0.9992
+Epoch [52/100], Train Loss: 0.0085 | Train Accuracy: 27.5628 | Train AUC: 0.9999, Validation Loss: 0.0408 | Validation Accuracy: 31.4231 | Validation AUC: 0.9967
+Epoch [53/100], Train Loss: 0.0082 | Train Accuracy: 27.5835 | Train AUC: 0.9999, Validation Loss: 0.0204 | Validation Accuracy: 31.4613 | Validation AUC: 0.9987
+Epoch [54/100], Train Loss: 0.0086 | Train Accuracy: 27.5826 | Train AUC: 0.9998, Validation Loss: 0.0231 | Validation Accuracy: 31.4452 | Validation AUC: 0.9988
+Epoch [55/100], Train Loss: 0.0090 | Train Accuracy: 27.5940 | Train AUC: 0.9998, Validation Loss: 0.0277 | Validation Accuracy: 31.4613 | Validation AUC: 0.9987
+Epoch [56/100], Train Loss: 0.0088 | Train Accuracy: 27.5566 | Train AUC: 0.9998, Validation Loss: 0.0212 | Validation Accuracy: 31.5095 | Validation AUC: 0.9982
+Epoch [57/100], Train Loss: 0.0110 | Train Accuracy: 27.5771 | Train AUC: 0.9997, Validation Loss: 0.0170 | Validation Accuracy: 31.4452 | Validation AUC: 0.9994
+Epoch [58/100], Train Loss: 0.0120 | Train Accuracy: 27.5855 | Train AUC: 0.9997, Validation Loss: 0.0218 | Validation Accuracy: 31.4131 | Validation AUC: 0.9991
+Epoch [59/100], Train Loss: 0.0135 | Train Accuracy: 27.5801 | Train AUC: 0.9994, Validation Loss: 0.0139 | Validation Accuracy: 31.5578 | Validation AUC: 0.9996
+Epoch [60/100], Train Loss: 0.0078 | Train Accuracy: 27.5792 | Train AUC: 0.9999, Validation Loss: 0.0172 | Validation Accuracy: 31.4613 | Validation AUC: 0.9996
+Epoch [61/100], Train Loss: 0.0058 | Train Accuracy: 27.5602 | Train AUC: 0.9999, Validation Loss: 0.0187 | Validation Accuracy: 31.5256 | Validation AUC: 0.9994
+Epoch [62/100], Train Loss: 0.0116 | Train Accuracy: 27.5676 | Train AUC: 0.9995, Validation Loss: 0.0122 | Validation Accuracy: 31.5256 | Validation AUC: 0.9997
+Epoch [63/100], Train Loss: 0.0080 | Train Accuracy: 27.5639 | Train AUC: 0.9999, Validation Loss: 0.0257 | Validation Accuracy: 31.4291 | Validation AUC: 0.9989
+Epoch [64/100], Train Loss: 0.0086 | Train Accuracy: 27.5579 | Train AUC: 0.9998, Validation Loss: 0.0141 | Validation Accuracy: 31.5578 | Validation AUC: 0.9996
+Epoch [65/100], Train Loss: 0.0069 | Train Accuracy: 27.5443 | Train AUC: 0.9999, Validation Loss: 0.0240 | Validation Accuracy: 31.4744 | Validation AUC: 0.9992
+Epoch [66/100], Train Loss: 0.0155 | Train Accuracy: 27.5757 | Train AUC: 0.9991, Validation Loss: 0.0164 | Validation Accuracy: 31.4935 | Validation AUC: 0.9995
+Epoch [67/100], Train Loss: 0.0074 | Train Accuracy: 27.5778 | Train AUC: 0.9999, Validation Loss: 0.0193 | Validation Accuracy: 31.4261 | Validation AUC: 0.9993
+Epoch [68/100], Train Loss: 0.0076 | Train Accuracy: 27.5932 | Train AUC: 0.9999, Validation Loss: 0.0157 | Validation Accuracy: 31.5095 | Validation AUC: 0.9995
+Epoch [69/100], Train Loss: 0.0091 | Train Accuracy: 27.5912 | Train AUC: 0.9997, Validation Loss: 0.0193 | Validation Accuracy: 31.4613 | Validation AUC: 0.9993
+Epoch [70/100], Train Loss: 0.0086 | Train Accuracy: 27.5613 | Train AUC: 0.9998, Validation Loss: 0.0159 | Validation Accuracy: 31.5709 | Validation AUC: 0.9995
+Epoch [71/100], Train Loss: 0.0116 | Train Accuracy: 27.5719 | Train AUC: 0.9994, Validation Loss: 0.0204 | Validation Accuracy: 31.5387 | Validation AUC: 0.9994
+Epoch [72/100], Train Loss: 0.0073 | Train Accuracy: 27.5762 | Train AUC: 0.9998, Validation Loss: 0.0180 | Validation Accuracy: 31.5417 | Validation AUC: 0.9994
+Epoch [73/100], Train Loss: 0.0053 | Train Accuracy: 27.6009 | Train AUC: 1.0000, Validation Loss: 0.0364 | Validation Accuracy: 31.4392 | Validation AUC: 0.9952
+Epoch [74/100], Train Loss: 0.0095 | Train Accuracy: 27.5850 | Train AUC: 0.9998, Validation Loss: 0.0217 | Validation Accuracy: 31.5065 | Validation AUC: 0.9993
+Epoch [75/100], Train Loss: 0.0089 | Train Accuracy: 27.5639 | Train AUC: 0.9998, Validation Loss: 0.0200 | Validation Accuracy: 31.4322 | Validation AUC: 0.9993
+Epoch [76/100], Train Loss: 0.0083 | Train Accuracy: 27.5744 | Train AUC: 0.9999, Validation Loss: 0.0167 | Validation Accuracy: 31.4613 | Validation AUC: 0.9996
+Epoch [77/100], Train Loss: 0.0087 | Train Accuracy: 27.5708 | Train AUC: 0.9998, Validation Loss: 0.0169 | Validation Accuracy: 31.5417 | Validation AUC: 0.9996
+Epoch [78/100], Train Loss: 0.0113 | Train Accuracy: 27.5684 | Train AUC: 0.9997, Validation Loss: 0.0197 | Validation Accuracy: 31.4291 | Validation AUC: 0.9994
+Epoch [79/100], Train Loss: 0.0108 | Train Accuracy: 27.5971 | Train AUC: 0.9994, Validation Loss: 0.0174 | Validation Accuracy: 31.5095 | Validation AUC: 0.9991
+Epoch [80/100], Train Loss: 0.0051 | Train Accuracy: 27.5663 | Train AUC: 0.9999, Validation Loss: 0.0175 | Validation Accuracy: 31.5065 | Validation AUC: 0.9996
+Epoch [81/100], Train Loss: 0.0132 | Train Accuracy: 27.5798 | Train AUC: 0.9996, Validation Loss: 0.0144 | Validation Accuracy: 31.4774 | Validation AUC: 0.9997
+Epoch [82/100], Train Loss: 0.0117 | Train Accuracy: 27.5837 | Train AUC: 0.9997, Validation Loss: 0.0202 | Validation Accuracy: 31.4583 | Validation AUC: 0.9990
+Epoch [83/100], Train Loss: 0.0093 | Train Accuracy: 27.5847 | Train AUC: 0.9998, Validation Loss: 0.0376 | Validation Accuracy: 31.4101 | Validation AUC: 0.9987
+Epoch [84/100], Train Loss: 0.0097 | Train Accuracy: 27.5773 | Train AUC: 0.9998, Validation Loss: 0.0279 | Validation Accuracy: 31.4131 | Validation AUC: 0.9993
+Epoch [85/100], Train Loss: 0.0087 | Train Accuracy: 27.5835 | Train AUC: 0.9997, Validation Loss: 0.0156 | Validation Accuracy: 31.4935 | Validation AUC: 0.9994
+Epoch [86/100], Train Loss: 0.0037 | Train Accuracy: 27.5527 | Train AUC: 1.0000, Validation Loss: 0.0230 | Validation Accuracy: 31.5065 | Validation AUC: 0.9994
+Epoch [87/100], Train Loss: 0.0076 | Train Accuracy: 27.5686 | Train AUC: 0.9998, Validation Loss: 0.0317 | Validation Accuracy: 31.4422 | Validation AUC: 0.9987
+Epoch [88/100], Train Loss: 0.0111 | Train Accuracy: 27.6007 | Train AUC: 0.9997, Validation Loss: 0.0265 | Validation Accuracy: 31.4261 | Validation AUC: 0.9984
+Epoch [89/100], Train Loss: 0.0084 | Train Accuracy: 27.6037 | Train AUC: 0.9998, Validation Loss: 0.0163 | Validation Accuracy: 31.5095 | Validation AUC: 0.9991
+Epoch [90/100], Train Loss: 0.0080 | Train Accuracy: 27.5602 | Train AUC: 0.9999, Validation Loss: 0.0254 | Validation Accuracy: 31.4583 | Validation AUC: 0.9985
+Epoch [91/100], Train Loss: 0.0081 | Train Accuracy: 27.5433 | Train AUC: 0.9999, Validation Loss: 0.0130 | Validation Accuracy: 31.5739 | Validation AUC: 0.9994
+Epoch [92/100], Train Loss: 0.0103 | Train Accuracy: 27.5906 | Train AUC: 0.9997, Validation Loss: 0.0221 | Validation Accuracy: 31.5065 | Validation AUC: 0.9994
+Epoch [93/100], Train Loss: 0.0078 | Train Accuracy: 27.5908 | Train AUC: 0.9998, Validation Loss: 0.0106 | Validation Accuracy: 31.5739 | Validation AUC: 0.9998
+Epoch [94/100], Train Loss: 0.0068 | Train Accuracy: 27.5512 | Train AUC: 0.9999, Validation Loss: 0.0137 | Validation Accuracy: 31.5548 | Validation AUC: 0.9996
+Epoch [95/100], Train Loss: 0.0100 | Train Accuracy: 27.5818 | Train AUC: 0.9996, Validation Loss: 0.0225 | Validation Accuracy: 31.4613 | Validation AUC: 0.9990
+Epoch [96/100], Train Loss: 0.0136 | Train Accuracy: 27.5924 | Train AUC: 0.9995, Validation Loss: 0.0169 | Validation Accuracy: 31.5256 | Validation AUC: 0.9995
+Epoch [97/100], Train Loss: 0.0101 | Train Accuracy: 27.5658 | Train AUC: 0.9998, Validation Loss: 0.0217 | Validation Accuracy: 31.4935 | Validation AUC: 0.9993
+Epoch [98/100], Train Loss: 0.0069 | Train Accuracy: 27.6037 | Train AUC: 0.9999, Validation Loss: 0.0259 | Validation Accuracy: 31.5387 | Validation AUC: 0.9994
+Epoch [99/100], Train Loss: 0.0087 | Train Accuracy: 27.6003 | Train AUC: 0.9998, Validation Loss: 0.0173 | Validation Accuracy: 31.4613 | Validation AUC: 0.9995
+Epoch [100/100], Train Loss: 0.0075 | Train Accuracy: 27.5878 | Train AUC: 0.9999, Validation Loss: 0.0162 | Validation Accuracy: 31.4935 | Validation AUC: 0.9995
+Train Loss: 0.0014, Accuracy: 27.5854, AUC: 1.0000
+Validation Loss: 0.0162, Accuracy: 31.4935, AUC: 0.9995
+Test Loss: 0.0251, Accuracy: 31.3936, AUC: 0.9989
+Downloading: "https://download.pytorch.org/models/resnet50-0676ba61.pth" to /home/s25piteam/.cache/torch/hub/checkpoints/resnet50-0676ba61.pth
+/home/s25piteam/miniconda3/envs/tileenv/lib/python3.8/site-packages/torch/cuda/__init__.py:128: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0

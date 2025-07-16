@@ -1,0 +1,120 @@
+선택된 모델: lstm
+모델 구조:
+LSTMBinaryClassifier(
+  (lstm): LSTM(1536, 128, num_layers=2, batch_first=True, bidirectional=True)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.3, inplace=False)
+    (4): Linear(in_features=64, out_features=16, bias=True)
+    (5): ReLU()
+    (6): Dropout(p=0.3, inplace=False)
+    (7): Linear(in_features=16, out_features=1, bias=True)
+  )
+)
+Epoch [1/100], Train Loss: 0.2037 | Train Accuracy: 27.5404 | Train AUC: 0.9257, Validation Loss: 0.0522 | Validation Accuracy: 31.2523 | Validation AUC: 0.9946
+Epoch [2/100], Train Loss: 0.0625 | Train Accuracy: 27.6270 | Train AUC: 0.9872, Validation Loss: 0.0486 | Validation Accuracy: 31.3588 | Validation AUC: 0.9963
+Epoch [3/100], Train Loss: 0.0470 | Train Accuracy: 27.6008 | Train AUC: 0.9926, Validation Loss: 0.0691 | Validation Accuracy: 30.8663 | Validation AUC: 0.9917
+Epoch [4/100], Train Loss: 0.0503 | Train Accuracy: 27.5607 | Train AUC: 0.9926, Validation Loss: 0.0487 | Validation Accuracy: 31.3075 | Validation AUC: 0.9947
+Epoch [5/100], Train Loss: 0.0297 | Train Accuracy: 27.5807 | Train AUC: 0.9975, Validation Loss: 0.0815 | Validation Accuracy: 31.2332 | Validation AUC: 0.9887
+Epoch [6/100], Train Loss: 0.0294 | Train Accuracy: 27.6154 | Train AUC: 0.9962, Validation Loss: 0.0365 | Validation Accuracy: 31.3457 | Validation AUC: 0.9972
+Epoch [7/100], Train Loss: 0.0246 | Train Accuracy: 27.5613 | Train AUC: 0.9976, Validation Loss: 0.0369 | Validation Accuracy: 31.2171 | Validation AUC: 0.9984
+Epoch [8/100], Train Loss: 0.0153 | Train Accuracy: 27.5632 | Train AUC: 0.9990, Validation Loss: 0.0408 | Validation Accuracy: 31.3970 | Validation AUC: 0.9986
+Epoch [9/100], Train Loss: 0.0190 | Train Accuracy: 27.5473 | Train AUC: 0.9990, Validation Loss: 0.0758 | Validation Accuracy: 31.2623 | Validation AUC: 0.9953
+Epoch [10/100], Train Loss: 0.0167 | Train Accuracy: 27.5815 | Train AUC: 0.9993, Validation Loss: 0.0453 | Validation Accuracy: 31.4422 | Validation AUC: 0.9982
+Epoch [11/100], Train Loss: 0.0217 | Train Accuracy: 27.5663 | Train AUC: 0.9981, Validation Loss: 0.0693 | Validation Accuracy: 31.3910 | Validation AUC: 0.9952
+Epoch [12/100], Train Loss: 0.0157 | Train Accuracy: 27.5780 | Train AUC: 0.9992, Validation Loss: 0.0825 | Validation Accuracy: 30.8050 | Validation AUC: 0.9927
+Epoch [13/100], Train Loss: 0.0179 | Train Accuracy: 27.5165 | Train AUC: 0.9992, Validation Loss: 0.0747 | Validation Accuracy: 31.3618 | Validation AUC: 0.9921
+Epoch [14/100], Train Loss: 0.0154 | Train Accuracy: 27.5632 | Train AUC: 0.9993, Validation Loss: 0.2420 | Validation Accuracy: 31.1628 | Validation AUC: 0.9772
+Epoch [15/100], Train Loss: 0.0175 | Train Accuracy: 27.5680 | Train AUC: 0.9986, Validation Loss: 0.0640 | Validation Accuracy: 31.0945 | Validation AUC: 0.9950
+Epoch [16/100], Train Loss: 0.0155 | Train Accuracy: 27.5678 | Train AUC: 0.9988, Validation Loss: 0.3500 | Validation Accuracy: 31.1920 | Validation AUC: 0.9918
+Epoch [17/100], Train Loss: 0.0195 | Train Accuracy: 27.5546 | Train AUC: 0.9988, Validation Loss: 0.0539 | Validation Accuracy: 31.4231 | Validation AUC: 0.9950
+Epoch [18/100], Train Loss: 0.0166 | Train Accuracy: 27.5722 | Train AUC: 0.9974, Validation Loss: 0.0603 | Validation Accuracy: 31.3588 | Validation AUC: 0.9978
+Epoch [19/100], Train Loss: 0.0113 | Train Accuracy: 27.5587 | Train AUC: 0.9996, Validation Loss: 0.0792 | Validation Accuracy: 31.3779 | Validation AUC: 0.9953
+Epoch [20/100], Train Loss: 0.0095 | Train Accuracy: 27.5693 | Train AUC: 0.9997, Validation Loss: 0.0868 | Validation Accuracy: 31.3779 | Validation AUC: 0.9899
+Epoch [21/100], Train Loss: 0.0081 | Train Accuracy: 27.5643 | Train AUC: 0.9997, Validation Loss: 0.0913 | Validation Accuracy: 31.4070 | Validation AUC: 0.9929
+Epoch [22/100], Train Loss: 0.0094 | Train Accuracy: 27.5678 | Train AUC: 0.9996, Validation Loss: 0.0775 | Validation Accuracy: 31.4101 | Validation AUC: 0.9954
+Epoch [23/100], Train Loss: 0.0184 | Train Accuracy: 27.5443 | Train AUC: 0.9982, Validation Loss: 0.1580 | Validation Accuracy: 31.2462 | Validation AUC: 0.9878
+Epoch [24/100], Train Loss: 0.0102 | Train Accuracy: 27.5747 | Train AUC: 0.9997, Validation Loss: 0.1153 | Validation Accuracy: 31.3618 | Validation AUC: 0.9925
+Epoch [25/100], Train Loss: 0.0084 | Train Accuracy: 27.5525 | Train AUC: 0.9995, Validation Loss: 0.1206 | Validation Accuracy: 31.3296 | Validation AUC: 0.9901
+Epoch [26/100], Train Loss: 0.0076 | Train Accuracy: 27.5637 | Train AUC: 0.9998, Validation Loss: 0.0528 | Validation Accuracy: 31.2623 | Validation AUC: 0.9907
+Epoch [27/100], Train Loss: 0.0141 | Train Accuracy: 27.5518 | Train AUC: 0.9991, Validation Loss: 0.1000 | Validation Accuracy: 31.3910 | Validation AUC: 0.9933
+Epoch [28/100], Train Loss: 0.0056 | Train Accuracy: 27.5536 | Train AUC: 0.9999, Validation Loss: 0.1363 | Validation Accuracy: 31.4101 | Validation AUC: 0.9886
+Epoch [29/100], Train Loss: 0.0053 | Train Accuracy: 27.5719 | Train AUC: 0.9999, Validation Loss: 0.0740 | Validation Accuracy: 31.3106 | Validation AUC: 0.9938
+Epoch [30/100], Train Loss: 0.0149 | Train Accuracy: 27.5561 | Train AUC: 0.9988, Validation Loss: 0.0680 | Validation Accuracy: 31.0241 | Validation AUC: 0.9950
+Epoch [31/100], Train Loss: 0.0084 | Train Accuracy: 27.5800 | Train AUC: 0.9994, Validation Loss: 0.0729 | Validation Accuracy: 31.2814 | Validation AUC: 0.9970
+Epoch [32/100], Train Loss: 0.0063 | Train Accuracy: 27.5706 | Train AUC: 0.9999, Validation Loss: 0.1336 | Validation Accuracy: 31.3457 | Validation AUC: 0.9908
+Epoch [33/100], Train Loss: 0.0126 | Train Accuracy: 27.5760 | Train AUC: 0.9995, Validation Loss: 0.0980 | Validation Accuracy: 31.3236 | Validation AUC: 0.9952
+Epoch [34/100], Train Loss: 0.0066 | Train Accuracy: 27.5497 | Train AUC: 0.9991, Validation Loss: 0.0859 | Validation Accuracy: 31.3940 | Validation AUC: 0.9911
+Epoch [35/100], Train Loss: 0.0040 | Train Accuracy: 27.5688 | Train AUC: 1.0000, Validation Loss: 0.1215 | Validation Accuracy: 31.3910 | Validation AUC: 0.9872
+Epoch [36/100], Train Loss: 0.0044 | Train Accuracy: 27.5771 | Train AUC: 0.9999, Validation Loss: 0.1019 | Validation Accuracy: 31.3910 | Validation AUC: 0.9936
+Epoch [37/100], Train Loss: 0.0081 | Train Accuracy: 27.5650 | Train AUC: 0.9996, Validation Loss: 0.4199 | Validation Accuracy: 31.3106 | Validation AUC: 0.9847
+Epoch [38/100], Train Loss: 0.0099 | Train Accuracy: 27.5764 | Train AUC: 0.9993, Validation Loss: 0.0530 | Validation Accuracy: 31.3618 | Validation AUC: 0.9972
+Epoch [39/100], Train Loss: 0.0136 | Train Accuracy: 27.5742 | Train AUC: 0.9990, Validation Loss: 0.0511 | Validation Accuracy: 31.4392 | Validation AUC: 0.9964
+Epoch [40/100], Train Loss: 0.0082 | Train Accuracy: 27.5503 | Train AUC: 0.9997, Validation Loss: 0.0987 | Validation Accuracy: 31.3749 | Validation AUC: 0.9957
+Epoch [41/100], Train Loss: 0.0077 | Train Accuracy: 27.5615 | Train AUC: 0.9995, Validation Loss: 0.3289 | Validation Accuracy: 31.3749 | Validation AUC: 0.9853
+Epoch [42/100], Train Loss: 0.0027 | Train Accuracy: 27.5533 | Train AUC: 1.0000, Validation Loss: 0.0972 | Validation Accuracy: 31.3106 | Validation AUC: 0.9931
+Epoch [43/100], Train Loss: 0.0068 | Train Accuracy: 27.5964 | Train AUC: 0.9997, Validation Loss: 0.1337 | Validation Accuracy: 31.3588 | Validation AUC: 0.9911
+Epoch [44/100], Train Loss: 0.0081 | Train Accuracy: 27.5968 | Train AUC: 0.9996, Validation Loss: 0.0943 | Validation Accuracy: 31.3457 | Validation AUC: 0.9867
+Epoch [45/100], Train Loss: 0.0044 | Train Accuracy: 27.5353 | Train AUC: 0.9999, Validation Loss: 0.3253 | Validation Accuracy: 31.3940 | Validation AUC: 0.9889
+Epoch [46/100], Train Loss: 0.0051 | Train Accuracy: 27.5691 | Train AUC: 0.9998, Validation Loss: 0.1016 | Validation Accuracy: 31.3106 | Validation AUC: 0.9930
+Epoch [47/100], Train Loss: 0.0075 | Train Accuracy: 27.5566 | Train AUC: 0.9998, Validation Loss: 0.0840 | Validation Accuracy: 31.4070 | Validation AUC: 0.9932
+Epoch [48/100], Train Loss: 0.0035 | Train Accuracy: 27.5561 | Train AUC: 0.9999, Validation Loss: 0.0722 | Validation Accuracy: 31.3296 | Validation AUC: 0.9910
+Epoch [49/100], Train Loss: 0.0050 | Train Accuracy: 27.5936 | Train AUC: 0.9992, Validation Loss: 0.1490 | Validation Accuracy: 31.3940 | Validation AUC: 0.9940
+Epoch [50/100], Train Loss: 0.0091 | Train Accuracy: 27.5828 | Train AUC: 0.9995, Validation Loss: 0.1348 | Validation Accuracy: 30.9337 | Validation AUC: 0.9732
+Epoch [51/100], Train Loss: 0.0078 | Train Accuracy: 27.5734 | Train AUC: 0.9993, Validation Loss: 0.1082 | Validation Accuracy: 31.1367 | Validation AUC: 0.9847
+Epoch [52/100], Train Loss: 0.0063 | Train Accuracy: 27.5658 | Train AUC: 0.9996, Validation Loss: 0.1322 | Validation Accuracy: 31.3779 | Validation AUC: 0.9877
+Epoch [53/100], Train Loss: 0.0156 | Train Accuracy: 27.5803 | Train AUC: 0.9985, Validation Loss: 0.1043 | Validation Accuracy: 31.3457 | Validation AUC: 0.9897
+Epoch [54/100], Train Loss: 0.0061 | Train Accuracy: 27.5772 | Train AUC: 0.9998, Validation Loss: 0.1067 | Validation Accuracy: 31.3749 | Validation AUC: 0.9838
+Epoch [55/100], Train Loss: 0.0089 | Train Accuracy: 27.5807 | Train AUC: 0.9994, Validation Loss: 0.1118 | Validation Accuracy: 31.3136 | Validation AUC: 0.9817
+Epoch [56/100], Train Loss: 0.0100 | Train Accuracy: 27.5656 | Train AUC: 0.9994, Validation Loss: 0.0814 | Validation Accuracy: 31.4101 | Validation AUC: 0.9884
+Epoch [57/100], Train Loss: 0.0038 | Train Accuracy: 27.5775 | Train AUC: 0.9999, Validation Loss: 0.0842 | Validation Accuracy: 31.3940 | Validation AUC: 0.9926
+Epoch [58/100], Train Loss: 0.0068 | Train Accuracy: 27.5837 | Train AUC: 0.9992, Validation Loss: 0.0749 | Validation Accuracy: 31.2844 | Validation AUC: 0.9910
+Epoch [59/100], Train Loss: 0.0015 | Train Accuracy: 27.5755 | Train AUC: 1.0000, Validation Loss: 0.1030 | Validation Accuracy: 31.3940 | Validation AUC: 0.9923
+Epoch [60/100], Train Loss: 0.0026 | Train Accuracy: 27.5908 | Train AUC: 1.0000, Validation Loss: 0.1324 | Validation Accuracy: 31.1397 | Validation AUC: 0.9896
+Epoch [61/100], Train Loss: 0.0107 | Train Accuracy: 27.5460 | Train AUC: 0.9993, Validation Loss: 0.0919 | Validation Accuracy: 31.3427 | Validation AUC: 0.9936
+Epoch [62/100], Train Loss: 0.0018 | Train Accuracy: 27.5721 | Train AUC: 1.0000, Validation Loss: 0.1091 | Validation Accuracy: 31.4101 | Validation AUC: 0.9819
+Epoch [63/100], Train Loss: 0.0173 | Train Accuracy: 27.5977 | Train AUC: 0.9982, Validation Loss: 0.0995 | Validation Accuracy: 31.2653 | Validation AUC: 0.9884
+Epoch [64/100], Train Loss: 0.0105 | Train Accuracy: 27.5938 | Train AUC: 0.9980, Validation Loss: 0.0917 | Validation Accuracy: 31.3136 | Validation AUC: 0.9877
+Epoch [65/100], Train Loss: 0.0049 | Train Accuracy: 27.5660 | Train AUC: 0.9999, Validation Loss: 0.1153 | Validation Accuracy: 31.2492 | Validation AUC: 0.9917
+Epoch [66/100], Train Loss: 0.0056 | Train Accuracy: 27.5473 | Train AUC: 0.9999, Validation Loss: 0.1698 | Validation Accuracy: 31.3266 | Validation AUC: 0.9861
+Epoch [67/100], Train Loss: 0.0114 | Train Accuracy: 27.5645 | Train AUC: 0.9995, Validation Loss: 0.0944 | Validation Accuracy: 31.3779 | Validation AUC: 0.9892
+Epoch [68/100], Train Loss: 0.0046 | Train Accuracy: 27.5596 | Train AUC: 0.9999, Validation Loss: 0.1211 | Validation Accuracy: 31.2945 | Validation AUC: 0.9912
+Epoch [69/100], Train Loss: 0.0016 | Train Accuracy: 27.5891 | Train AUC: 1.0000, Validation Loss: 0.1567 | Validation Accuracy: 31.3106 | Validation AUC: 0.9851
+Epoch [70/100], Train Loss: 0.0021 | Train Accuracy: 27.5992 | Train AUC: 1.0000, Validation Loss: 0.4282 | Validation Accuracy: 31.3296 | Validation AUC: 0.9881
+Epoch [71/100], Train Loss: 0.0009 | Train Accuracy: 27.5712 | Train AUC: 1.0000, Validation Loss: 0.3481 | Validation Accuracy: 31.3296 | Validation AUC: 0.9884
+Epoch [72/100], Train Loss: 0.0059 | Train Accuracy: 27.5803 | Train AUC: 0.9997, Validation Loss: 0.1275 | Validation Accuracy: 31.3236 | Validation AUC: 0.9857
+Epoch [73/100], Train Loss: 0.0142 | Train Accuracy: 27.5480 | Train AUC: 0.9986, Validation Loss: 0.1030 | Validation Accuracy: 31.3136 | Validation AUC: 0.9936
+Epoch [74/100], Train Loss: 0.0057 | Train Accuracy: 27.5660 | Train AUC: 0.9994, Validation Loss: 0.1170 | Validation Accuracy: 31.1849 | Validation AUC: 0.9949
+Epoch [75/100], Train Loss: 0.0067 | Train Accuracy: 27.5785 | Train AUC: 0.9998, Validation Loss: 0.0732 | Validation Accuracy: 31.3779 | Validation AUC: 0.9970
+Epoch [76/100], Train Loss: 0.0067 | Train Accuracy: 27.5764 | Train AUC: 0.9998, Validation Loss: 0.0711 | Validation Accuracy: 31.3779 | Validation AUC: 0.9976
+Epoch [77/100], Train Loss: 0.0037 | Train Accuracy: 27.5843 | Train AUC: 0.9999, Validation Loss: 0.1782 | Validation Accuracy: 31.3940 | Validation AUC: 0.9889
+Epoch [78/100], Train Loss: 0.0039 | Train Accuracy: 27.5843 | Train AUC: 0.9999, Validation Loss: 0.0781 | Validation Accuracy: 31.4261 | Validation AUC: 0.9909
+Epoch [79/100], Train Loss: 0.0086 | Train Accuracy: 27.5688 | Train AUC: 0.9990, Validation Loss: 0.0878 | Validation Accuracy: 31.2302 | Validation AUC: 0.9956
+Epoch [80/100], Train Loss: 0.0122 | Train Accuracy: 27.5404 | Train AUC: 0.9984, Validation Loss: 0.0617 | Validation Accuracy: 31.4422 | Validation AUC: 0.9973
+Epoch [81/100], Train Loss: 0.0049 | Train Accuracy: 27.5785 | Train AUC: 0.9999, Validation Loss: 0.1480 | Validation Accuracy: 31.3588 | Validation AUC: 0.9743
+Epoch [82/100], Train Loss: 0.0053 | Train Accuracy: 27.5805 | Train AUC: 0.9994, Validation Loss: 0.0793 | Validation Accuracy: 31.4231 | Validation AUC: 0.9945
+Epoch [83/100], Train Loss: 0.0044 | Train Accuracy: 27.5908 | Train AUC: 0.9998, Validation Loss: 0.2204 | Validation Accuracy: 30.4060 | Validation AUC: 0.9910
+Epoch [84/100], Train Loss: 0.0074 | Train Accuracy: 27.5673 | Train AUC: 0.9996, Validation Loss: 0.0879 | Validation Accuracy: 31.3487 | Validation AUC: 0.9822
+Epoch [85/100], Train Loss: 0.0086 | Train Accuracy: 27.5635 | Train AUC: 0.9994, Validation Loss: 0.0985 | Validation Accuracy: 31.1688 | Validation AUC: 0.9948
+Epoch [86/100], Train Loss: 0.0072 | Train Accuracy: 27.5643 | Train AUC: 0.9990, Validation Loss: 0.0845 | Validation Accuracy: 31.3136 | Validation AUC: 0.9971
+Epoch [87/100], Train Loss: 0.0036 | Train Accuracy: 27.5779 | Train AUC: 0.9999, Validation Loss: 0.0899 | Validation Accuracy: 31.3940 | Validation AUC: 0.9900
+Epoch [88/100], Train Loss: 0.0013 | Train Accuracy: 27.5815 | Train AUC: 1.0000, Validation Loss: 0.1110 | Validation Accuracy: 31.4261 | Validation AUC: 0.9907
+Epoch [89/100], Train Loss: 0.0034 | Train Accuracy: 27.5807 | Train AUC: 0.9999, Validation Loss: 0.1642 | Validation Accuracy: 31.3296 | Validation AUC: 0.9883
+Epoch [90/100], Train Loss: 0.0059 | Train Accuracy: 27.5673 | Train AUC: 0.9994, Validation Loss: 0.0841 | Validation Accuracy: 31.3940 | Validation AUC: 0.9900
+Epoch [91/100], Train Loss: 0.0088 | Train Accuracy: 27.5443 | Train AUC: 0.9995, Validation Loss: 0.0892 | Validation Accuracy: 31.4101 | Validation AUC: 0.9904
+Epoch [92/100], Train Loss: 0.0025 | Train Accuracy: 27.5734 | Train AUC: 0.9999, Validation Loss: 0.1107 | Validation Accuracy: 31.3910 | Validation AUC: 0.9953
+Epoch [93/100], Train Loss: 0.0291 | Train Accuracy: 27.5704 | Train AUC: 0.9973, Validation Loss: 0.1027 | Validation Accuracy: 31.2814 | Validation AUC: 0.9874
+Epoch [94/100], Train Loss: 0.0088 | Train Accuracy: 27.5880 | Train AUC: 0.9979, Validation Loss: 0.0863 | Validation Accuracy: 31.3296 | Validation AUC: 0.9943
+Epoch [95/100], Train Loss: 0.0068 | Train Accuracy: 27.5850 | Train AUC: 0.9996, Validation Loss: 0.1140 | Validation Accuracy: 31.3749 | Validation AUC: 0.9867
+Epoch [96/100], Train Loss: 0.0023 | Train Accuracy: 27.5880 | Train AUC: 0.9994, Validation Loss: 0.1024 | Validation Accuracy: 31.2975 | Validation AUC: 0.9878
+Epoch [97/100], Train Loss: 0.0095 | Train Accuracy: 27.6087 | Train AUC: 0.9992, Validation Loss: 0.0765 | Validation Accuracy: 31.2492 | Validation AUC: 0.9890
+Epoch [98/100], Train Loss: 0.0088 | Train Accuracy: 27.5669 | Train AUC: 0.9992, Validation Loss: 0.0884 | Validation Accuracy: 31.4070 | Validation AUC: 0.9943
+Epoch [99/100], Train Loss: 0.0017 | Train Accuracy: 27.5867 | Train AUC: 1.0000, Validation Loss: 0.1124 | Validation Accuracy: 31.4070 | Validation AUC: 0.9941
+Epoch [100/100], Train Loss: 0.0052 | Train Accuracy: 27.5639 | Train AUC: 0.9998, Validation Loss: 0.1571 | Validation Accuracy: 31.3749 | Validation AUC: 0.9815
+Train Loss: 0.0038, Accuracy: 27.6031, AUC: 1.0000
+Validation Loss: 0.1571, Accuracy: 31.3749, AUC: 0.9815
+Test Loss: 0.1431, Accuracy: 31.3735, AUC: 0.9788
+/home/s25piteam/miniconda3/envs/tileenv/lib/python3.8/site-packages/torch/cuda/__init__.py:128: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
