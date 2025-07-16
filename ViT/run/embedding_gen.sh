@@ -5,6 +5,6 @@
 #SBATCH --nodelist=gpu[002]
 
 source /home/s25piteam/miniconda3/bin/activate
-conda activate torch116
+conda activate tileenv
 
 srun --unbuffered python /home/s25piteam/UNLV-histopathology/ViT/embed_gen/embedding_gen.py
