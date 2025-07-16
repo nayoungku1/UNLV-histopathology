@@ -1,0 +1,235 @@
+pub_id,pub_subspec_id,Tumor_Histologic_Type,Tumor_Segment_Acceptable,label
+MSB-00122,MSB-00122-01-02,Non Small Cell Lung Cancer,Y,1
+MSB-00122,MSB-00122-02-04,Non Small Cell Lung Cancer,Y,1
+MSB-00122,MSB-00122-03-02,Non Small Cell Lung Cancer,Y,1
+MSB-00179,MSB-00179-03-20,Adenocarcinoma Of Left Lung,Y,1
+MSB-00179,MSB-00179-04-02,Adenocarcinoma Of Left Lung,Y,1
+MSB-00316,MSB-00316-03-01,Adenocarcinoma,N,0
+MSB-00556,MSB-00556-04-06,Lung Right Adenocarcinoma,Y,1
+MSB-00556,MSB-00556-04-11,Lung Right Adenocarcinoma,Y,1
+MSB-00556,MSB-00556-04-12,Lung Right Adenocarcinoma,Y,1
+MSB-00602,MSB-00602-02-01,Non-Small Cell Lung Adenocarcinoma,Y,1
+MSB-00755,MSB-00755-01-02,Adenocarcinoma,Y,1
+MSB-00773,MSB-00773-01-01,Squamous Cell Carcinoma,Y,1
+MSB-00939,MSB-00939-02-06,Squamous Cell Carcinoma,Y,1
+MSB-00939,MSB-00939-02-05,Squamous Cell Carcinoma,Y,1
+MSB-00956,MSB-00956-02-02,Lung,Y,1
+MSB-01072,MSB-01072-02-01,Non-Small Cell Lung Cancer,Y,1
+MSB-01110,MSB-01110-01-20,Lung Cancer Metastatic To Bone,Y,1
+MSB-01236,MSB-01236-01-02,Small Cell Carcinoma,Y,1
+MSB-01307,MSB-01307-01-02,Extensive Stage Small Cell Lung Cancer,Y,1
+MSB-01413,MSB-01413-01-02,Lung Adenocarcinoma,Y,1
+MSB-01413,MSB-01413-01-03,Lung Adenocarcinoma,Y,1
+MSB-01413,MSB-01413-01-08,Lung Adenocarcinoma,Y,1
+MSB-01413,MSB-01413-01-13,Lung Adenocarcinoma,Y,1
+MSB-01433,MSB-01433-03-02,Metastatic Lung Adenocarcinoma,Y,1
+MSB-01437,MSB-01437-03-09,Adenocarcinoma,Y,1
+MSB-01459,MSB-01459-01-02,Squamous Cell Carcinoma,Y,1
+MSB-01491,MSB-01491-01-01,Non Small Cell Carcinoma,Y,1
+MSB-01499,MSB-01499-01-02,Metastatic Adenocarcinoma,N,0
+MSB-01597,MSB-01597-03-02,Stage Iv Non-Small Cell Lung Cancer,Y,1
+MSB-01617,MSB-01617-01-05,R Lung Squamous Cell Carcinoma,Y,1
+MSB-01617,MSB-01617-01-07,R Lung Squamous Cell Carcinoma,Y,1
+MSB-01649,MSB-01649-01-02,Adenocarcinoma,Y,1
+MSB-01762,MSB-01762-03-03,Metastatic Carcinoma,N,0
+MSB-01772,MSB-01772-03-02,Carcinoma,Y,1
+MSB-01772,MSB-01772-06-02,Carcinoma,Y,1
+MSB-01973,MSB-01973-01-02,Small Cell Carcinoma,Y,1
+MSB-02118,MSB-02118-01-02,Squamous Cell Carcinoma,Y,1
+MSB-02118,MSB-02118-01-12,Squamous Cell Carcinoma,Y,1
+MSB-02118,MSB-02118-01-07,Squamous Cell Carcinoma,Y,1
+MSB-02120,MSB-02120-03-04,Metastatic Adenocarcinoma,N,0
+MSB-02120,MSB-02120-08-01,Metastatic Adenocarcinoma,Y,1
+MSB-02151,MSB-02151-02-07,Metastatic Adenocarcinoma,N,0
+MSB-02151,MSB-02151-02-08,Metastatic Adenocarcinoma,N,0
+MSB-02151,MSB-02151-02-13,Metastatic Adenocarcinoma,N,0
+MSB-02151,MSB-02151-02-14,Metastatic Adenocarcinoma,N,0
+MSB-02151,MSB-02151-01-20,Metastatic Adenocarcinoma,N,0
+MSB-02291,MSB-02291-04-02,Non-Small Cell Lung Cancer,Y,1
+MSB-02302,MSB-02302-02-04,Poorly Differentiated Carcinoma With Neuroendocrine Features,Y,1
+MSB-02302,MSB-02302-01-02,Poorly Differentiated Carcinoma With Neuroendocrine Features,Y,1
+MSB-02367,MSB-02367-03-02,Poorly Differentiated,Y,1
+MSB-02370,MSB-02370-01-02,Adenocarcinoma,Y,1
+MSB-02428,MSB-02428-03-02,Small Cell Carcinoma,Y,1
+MSB-02457,MSB-02457-01-02,Small Cell Carcinoma,Y,1
+MSB-02498,MSB-02498-01-04,Non Small Cell Lung Cancer,Y,1
+MSB-02498,MSB-02498-02-02,Non Small Cell Lung Cancer,Y,1
+MSB-02506,MSB-02506-03-03,Adenocarcinoma,Y,1
+MSB-02661,MSB-02661-01-02,Adenocarcinoma,Y,1
+MSB-02936,MSB-02936-03-06,Awaiting Path,Y,1
+MSB-02963,MSB-02963-01-10,Malignant Neoplasm Of Upper Lobe Of Right Lung,Y,1
+MSB-03108,MSB-03108-03-02,Small Cell Carcinoma,Y,1
+MSB-03275,MSB-03275-03-02,Primary Lung Small Cell Neuroendocrine Carcinoma,Y,1
+MSB-03308,MSB-03308-01-07,Small Cell Lung Carcinoma,Y,1
+MSB-03308,MSB-03308-01-12,Small Cell Lung Carcinoma,Y,1
+MSB-03330,MSB-03330-03-02,Invasive Adenocarcinoma With Mixed Non-Mucinous And Mucinous Components,Y,1
+MSB-03410,MSB-03410-01-02,Metastatic Carcinoma,N,0
+MSB-03410,MSB-03410-02-02,Metastatic Carcinoma,N,0
+MSB-03418,MSB-03418-03-20,Adenocarcinoma Of Lung,Y,1
+MSB-03483,MSB-03483-03-02,Lung Adenocarcinoma,Y,1
+MSB-03548,MSB-03548-01-03,Poorly Differentiated Carcinoma,Y,1
+MSB-03548,MSB-03548-01-04,Poorly Differentiated Carcinoma,Y,1
+MSB-03587,MSB-03587-02-02,Small Cell Cancer,N,0
+MSB-03592,MSB-03592-03-02,Small Cell Carcinoma,N,0
+MSB-03592,MSB-03592-04-02,Small Cell Carcinoma,N,0
+MSB-03638,MSB-03638-03-02,Small Cell Carcinoma,Y,1
+MSB-03700,MSB-03700-01-01,"Adenocarcinoma, Non-Small Cell Lung",Y,1
+MSB-04096,MSB-04096-03-02,Non-Small Cell Carcinoma,Y,1
+MSB-04096,MSB-04096-06-06,Non-Small Cell Carcinoma,Y,1
+MSB-04096,MSB-04096-06-13,Non-Small Cell Carcinoma,Y,1
+MSB-04096,MSB-04096-06-14,Non-Small Cell Carcinoma,Y,1
+MSB-04248,MSB-04248-03-01,Metastatic Adenocarcinoma,Y,1
+MSB-04286,MSB-04286-01-01,Small Cell Carcinoma,Y,1
+MSB-04315,MSB-04315-01-02,Non-Small Cell Carcinoma,Y,1
+MSB-04319,MSB-04319-01-03,Squamous,Y,1
+MSB-04319,MSB-04319-01-04,Squamous,Y,1
+MSB-04323,MSB-04323-01-04,Metastatic Carcinoma,Y,1
+MSB-04323,MSB-04323-02-02,Metastatic Carcinoma,Y,1
+MSB-04347,MSB-04347-03-03,Metastatic Sarcomatoid,Y,1
+MSB-04388,MSB-04388-01-01,Adenocarcinoma Stage Iv,Y,1
+MSB-04500,MSB-04500-01-02,Carcinoma,Y,1
+MSB-04567,MSB-04567-03-20,Carcinoma Of The Lung,N,0
+MSB-04569,MSB-04569-01-06,Non-Small Cell Lung Cancer,Y,1
+MSB-04569,MSB-04569-01-11,Non-Small Cell Lung Cancer,Y,1
+MSB-04569,MSB-04569-01-12,Non-Small Cell Lung Cancer,Y,1
+MSB-04569,MSB-04569-04-20,Non-Small Cell Lung Cancer,Y,1
+MSB-04620,MSB-04620-01-01,Non-Small Cell Lung Cancer,N,0
+MSB-04620,MSB-04620-04-02,Non-Small Cell Lung Cancer,N,0
+MSB-04620,MSB-04620-04-04,Non-Small Cell Lung Cancer,N,0
+MSB-04630,MSB-04630-01-02,Adenocarcinoma,Y,1
+MSB-04797,MSB-04797-01-02,Pulmonary Adenocarcinoma,Y,1
+MSB-04849,MSB-04849-03-02,Adenocarcinoma,,0
+MSB-04962,MSB-04962-01-03,Small Cell Cancer,Y,1
+MSB-04968,MSB-04968-03-01,Adenocarcinoma,N,0
+MSB-05015,MSB-05015-01-02,Small Cell Lung Carcinoma,Y,1
+MSB-05098,MSB-05098-03-02,Adenocarcinoma,Y,1
+MSB-05102,MSB-05102-02-02,Adenocarcinoma,Y,1
+MSB-05256,MSB-05256-01-02,Nsclc,Y,1
+MSB-05281,MSB-05281-01-02,Metastatic Small Cell Carcinoma,Y,1
+MSB-05326,MSB-05326-03-02,Squamous Cell Carcinoma,Y,1
+MSB-05365,MSB-05365-01-02,Adenocarcinoma,Y,1
+MSB-05365,MSB-05365-04-02,Adenocarcinoma,Y,1
+MSB-05387,MSB-05387-01-02,Invasive Pulmonary Adenocarcinoma,Y,1
+MSB-05388,MSB-05388-01-02,Small Cell Carcinoma,Y,1
+MSB-05388,MSB-05388-01-07,Small Cell Carcinoma,Y,1
+MSB-05388,MSB-05388-01-12,Small Cell Carcinoma,Y,1
+MSB-05460,MSB-05460-01-02,Adenocarcinoma,Y,1
+MSB-05508,MSB-05508-01-02,Lung Adenocarcinoma,N,0
+MSB-05620,MSB-05620-03-02,Small Cell,N,0
+MSB-05740,MSB-05740-02-04,Non-Small Cell Carcinoma,Y,1
+MSB-05746,MSB-05746-02-02,Metastatic Adenocarcinoma,Y,1
+MSB-05756,MSB-05756-01-02,Adenocarcinoma,Y,1
+MSB-05767,MSB-05767-01-02,Moderately Differentiated Adenocarcinoma,Y,1
+MSB-05767,MSB-05767-07-06,Moderately Differentiated,N,0
+MSB-05767,MSB-05767-07-11,Moderately Differentiated,N,0
+MSB-05767,MSB-05767-07-12,Moderately Differentiated,N,0
+MSB-05837,MSB-05837-01-04,Small Cell Carcinoma,Y,1
+MSB-05837,MSB-05837-01-06,Small Cell Carcinoma,Y,1
+MSB-05876,MSB-05876-01-06,Stage Iv Non-Small Cell Lung Cancer,Y,1
+MSB-05876,MSB-05876-01-07,Stage Iv Non-Small Cell Lung Cancer,Y,1
+MSB-05876,MSB-05876-01-08,Stage Iv Non-Small Cell Lung Cancer,Y,1
+MSB-05915,MSB-05915-03-02,Metastatic High Grade Neuroendocrine Small Cell Carcinoma,N,0
+MSB-05915,MSB-05915-06-02,Metastatic High Grade Neuroendocrine Small Cell Carcinoma,Y,1
+MSB-06059,MSB-06059-01-02,Squamous,Y,1
+MSB-06072,MSB-06072-03-05,Metastatic Adenocarcinoma,Y,1
+MSB-06072,MSB-06072-03-06,Metastatic Adenocarcinoma,Y,1
+MSB-06110,MSB-06110-01-20,Pt1cn1m1,Y,1
+MSB-06135,MSB-06135-01-20,Non-Small Cell Carcinoma,Y,1
+MSB-06150,MSB-06150-02-04,Lung Cancer,Y,1
+MSB-06150,MSB-06150-02-05,Lung Cancer,Y,1
+MSB-06150,MSB-06150-02-12,Lung Cancer,Y,1
+MSB-06197,MSB-06197-01-02,Lung Cancer,N,0
+MSB-06249,MSB-06249-01-03,Nscls,Y,1
+MSB-06387,MSB-06387-04-03,Non-Small Cell Lung Cancer,Y,1
+MSB-06387,MSB-06387-04-05,Non-Small Cell Lung Cancer,Y,1
+MSB-06433,MSB-06433-03-20,Adenocarcinoma With Mucinous Feature,Y,1
+MSB-06482,MSB-06482-03-03,Small Cell Carcinoma,Y,1
+MSB-06510,MSB-06510-01-02,Small Cell Lung Cancer,Y,1
+MSB-06640,MSB-06640-03-02,Small Cell Carcinoma,Y,1
+MSB-06720,MSB-06720-03-02,Metastatic Adenocarcinoma,Y,1
+MSB-06810,MSB-06810-03-20,Metastatic Adenocarcinoma,Y,1
+MSB-06824,MSB-06824-01-02,Lung Cancer,Y,1
+MSB-06824,MSB-06824-08-05,Lung Cancer,Y,1
+MSB-06824,MSB-06824-08-06,Lung Cancer,Y,1
+MSB-06864,MSB-06864-01-02,Stage Iv Small Cell Lung Cancer,Y,1
+MSB-06926,MSB-06926-01-20,Non-Small Cell Lung Cancer Stage Iv,Y,1
+MSB-06965,MSB-06965-01-02,Small Cell Cancer,Y,1
+MSB-07202,MSB-07202-01-05,Adenocarcinoma,N,0
+MSB-07202,MSB-07202-01-06,Adenocarcinoma,N,0
+MSB-07219,MSB-07219-02-01,Lung Cancer,Y,1
+MSB-07241,MSB-07241-01-02,Non-Small Cell Carcinoma,Y,1
+MSB-07272,MSB-07272-03-01,Non-Small Cell Lung Carcinoma,Y,1
+MSB-07278,MSB-07278-01-02,Non-Small Cell Lung Cancer,Y,1
+MSB-07311,MSB-07311-03-02,Small Cell Carcinoma,Y,1
+MSB-07342,MSB-07342-03-20,Adenocarcinoma,Y,1
+MSB-07494,MSB-07494-01-05,Carcinoma,N,0
+MSB-07494,MSB-07494-01-06,Carcinoma,N,0
+MSB-07520,MSB-07520-04-01,Carcinoma,Y,1
+MSB-07572,MSB-07572-01-02,Non-Small Cell Lung Cancer,Y,1
+MSB-07578,MSB-07578-03-02,Stage Iv Non-Small Cell Lung Cancer,Y,1
+MSB-07636,MSB-07636-01-02,Nsclc,N,0
+MSB-07636,MSB-07636-08-04,Nsclc,N,0
+MSB-07636,MSB-07636-08-05,Nsclc,N,0
+MSB-07636,MSB-07636-08-06,Nsclc,N,0
+MSB-07662,MSB-07662-01-01,Neuroendocrine Carcinoma,Y,1
+MSB-07686,MSB-07686-01-02,Tiny Admixed Fragments Atypical Squamous Material,Y,1
+MSB-07700,MSB-07700-01-04,Non Small Cell Carcinoma,N,0
+MSB-07727,MSB-07727-03-02,Small Cell Carcinoma,Y,1
+MSB-07864,MSB-07864-03-06,"Adenocarcinoma, Favor Lung Origin",Y,1
+MSB-07945,MSB-07945-01-02,Adenocarcinoma,Y,1
+MSB-08063,MSB-08063-05-04,Pathologically Confirmed�Lung Adenocarcinoma,Y,1
+MSB-08063,MSB-08063-05-03,Pathologically Confirmed�Lung Adenocarcinoma,Y,1
+MSB-08063,MSB-08063-04-01,Pathologically Confirmed�Lung Adenocarcinoma,Y,1
+MSB-08242,MSB-08242-01-05,Epithelioid Malignant Neoplasm Involving Fibroconnective Tissue,Y,1
+MSB-08242,MSB-08242-01-06,Epithelioid Malignant Neoplasm Involving Fibroconnective Tissue,Y,1
+MSB-08267,MSB-08267-03-02,Squamous,Y,1
+MSB-08267,MSB-08267-03-05,Squamous,Y,1
+MSB-08354,MSB-08354-01-02,Non-Small Cell Lung Cancer,N,0
+MSB-08354,MSB-08354-01-03,Non-Small Cell Lung Cancer,N,0
+MSB-08454,MSB-08454-03-02,Adenocarcinoma,Y,1
+MSB-08476,MSB-08476-03-02,"Poorly Differentiated, Squamous Cell",Y,1
+MSB-08476,MSB-08476-03-07,"Poorly Differentiated, Squamous Cell",Y,1
+MSB-08476,MSB-08476-03-12,"Poorly Differentiated, Squamous Cell",Y,1
+MSB-08583,MSB-08583-03-02,Adenocarcinoma,Y,1
+MSB-08777,MSB-08777-01-02,Non-Small Cell Lung Cancer,Y,1
+MSB-08782,MSB-08782-01-02,Non Small Cell Lung Cancer,Y,1
+MSB-08782,MSB-08782-02-04,Non Small Cell Lung Cancer,Y,1
+MSB-08782,MSB-08782-03-02,Non Small Cell Lung Cancer,Y,1
+MSB-08789,MSB-08789-03-01,Metastatic Nonkeratinizing Squamous Cell Carcinoma,Y,1
+MSB-08797,MSB-08797-01-20,Non-Small Cell Lung Cancer Stage Iv,N,0
+MSB-08828,MSB-08828-01-20,Non-Small Cell Lung Cancer Stage Iiia,Y,1
+MSB-08841,MSB-08841-01-02,Adenocarcinoma,N,0
+MSB-08867,MSB-08867-01-03,Small Cell Carcinoma,Y,1
+MSB-08928,MSB-08928-01-04,Small Cell Carcinoma,N,0
+MSB-08928,MSB-08928-01-05,Small Cell Carcinoma,N,0
+MSB-08928,MSB-08928-01-06,Small Cell Carcinoma,N,0
+MSB-08954,MSB-08954-01-02,Pulmonary Adenocarcinoma,Y,1
+MSB-08964,MSB-08964-01-02,Sclc,Y,1
+MSB-09027,MSB-09027-01-02,Adenocarcinoma,N,0
+MSB-09117,MSB-09117-03-02,Nsclc,N,0
+MSB-09117,MSB-09117-03-06,Nsclc,N,0
+MSB-09382,MSB-09382-01-20,Non-Small Cell Lung Cancer,Y,1
+MSB-09426,MSB-09426-02-02,Non-Small Cell Lung Cancer,N,0
+MSB-09426,MSB-09426-03-02,Non-Small Cell Lung Cancer,N,0
+MSB-09466,MSB-09466-02-02,Squamous Cell,Y,1
+MSB-09505,MSB-09505-01-02,Pulmonary Adenocarcinoma,Y,1
+MSB-09518,MSB-09518-03-02,Squamous Cell Carcinoma,Y,1
+MSB-09521,MSB-09521-03-01,Poorly Differentiated Adenocarcinoma With Pleural Involvement And Focal Tumor Necrosis,Y,1
+MSB-09560,MSB-09560-01-02,Lung Cancer,N,0
+MSB-09604,MSB-09604-01-02,Non-Small Cell Lung Cancer,Y,1
+MSB-09604,MSB-09604-06-03,Non-Small Cell Lung Cancer,N,0
+MSB-09604,MSB-09604-06-04,Non-Small Cell Lung Cancer,N,0
+MSB-09666,MSB-09666-02-02,Squamous Cell Carcinoma,Y,1
+MSB-09692,MSB-09692-01-02,Metastatic Adenocarcinoma,Y,1
+MSB-09794,MSB-09794-01-02,Non-Small Cell Lung,Y,1
+MSB-09848,MSB-09848-01-02,Adenocarcinoma,Y,1
+MSB-09866,MSB-09866-01-06,Advanced Egfr Mutated Lung Adenocarcinoma,Y,1
+MSB-09866,MSB-09866-01-12,Advanced Egfr Mutated Lung Adenocarcinoma,Y,1
+MSB-09866,MSB-09866-01-13,Advanced Egfr Mutated Lung Adenocarcinoma,Y,1
+MSB-09880,MSB-09880-05-05,Non-Small Cell Carcinoma,Y,1
+MSB-09880,MSB-09880-05-06,Non-Small Cell Carcinoma,Y,1
+MSB-09917,MSB-09917-03-05,Invasive Squamos Cell Carcinoma,Y,1
+MSB-09917,MSB-09917-03-06,Invasive Squamos Cell Carcinoma,Y,1
+MSB-09960,MSB-09960-03-02,Moderately Differentiated Adenocarcinoma,Y,1
+MSB-09977,MSB-09977-01-22,Small Cell Neuroendocrine Carcinoma,Y,1
+MSB-09977,MSB-09977-01-24,Small Cell Neuroendocrine Carcinoma,Y,1
